@@ -1,0 +1,49 @@
+2023-10-31T13:47:39+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php:350
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php(350): in_array()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wp-walker.php(147): Unisolt_Menu_Walker->start_el()
+#2 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wp-walker.php(247): Walker->display_element()
+#3 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1572): Walker->walk()
+#4 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1355): walk_page_tree()
+#5 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1487): wp_list_pages()
+#6 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/nav-menu-template.php(164): wp_page_menu()
+#7 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/header.php(87): wp_nav_menu()
+#8 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template.php(785): require_once('...')
+#9 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template.php(720): load_template()
+#10 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/general-template.php(48): locate_template()
+#11 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/front-page.php(16): get_header()
+#12 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include('...')
+#13 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#14 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#15 {main}
+  thrown in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php on line 350
+
+2023-10-31T13:48:02+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php:350
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php(350): in_array()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wp-walker.php(147): Unisolt_Menu_Walker->start_el()
+#2 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wp-walker.php(247): Walker->display_element()
+#3 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1572): Walker->walk()
+#4 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1355): walk_page_tree()
+#5 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/post-template.php(1487): wp_list_pages()
+#6 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/nav-menu-template.php(164): wp_page_menu()
+#7 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/header.php(87): wp_nav_menu()
+#8 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template.php(785): require_once('...')
+#9 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template.php(720): load_template()
+#10 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/general-template.php(48): locate_template()
+#11 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/front-page.php(16): get_header()
+#12 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include('...')
+#13 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#14 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#15 {main}
+  thrown in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/functions.php on line 350
+
+2023-10-31T13:59:39+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, WP_Error given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/inc/woocommerce.php:353
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/woocommerce/archive-product.php(41): custom_filter_products_html()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#3 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#4 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/inc/woocommerce.php на строке 353
+

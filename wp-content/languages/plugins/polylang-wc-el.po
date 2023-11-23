@@ -1,0 +1,376 @@
+# Translation of WP-Syntex - Polylang for WooCommerce in Greek
+# This file is distributed under the same license as the WP-Syntex - Polylang for WooCommerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-02 09:04:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: el_GR\n"
+"Project-Id-Version: WP-Syntex - Polylang for WooCommerce\n"
+
+#: admin/admin-site-health.php:35
+msgid "All WooCommerce pages are translated."
+msgstr "Όλες οι WooCommerce σελίδες έχουν μεταφραστεί."
+
+#: admin/view-wizard-step-wc-pages.php:25
+msgid "Before creating these pages in each language, if available, we will try to install the plugin translations."
+msgstr "Πριν την δημιουργία αυτών των σελίδων σε κάθε γλώσσα, αν είναι διαθέσιμο, θα προσπαθήσουμε να εγκαταστήσουμε το πρόσθετο μετάφρασης."
+
+#: admin/view-wizard-step-wc-pages.php:67
+msgid "For your multilingual shop to work correctly, we need to ensure that all the WooCommerce pages are created and translated."
+msgstr "Για να λειτουργεί σωστά το πολυγλωσσικό σας κατάστημα, χρειαζόμαστε να σιγουρέψουμε ότι όλες οι σελίδες WooCommerce δημιουργήθηκαν και μεταφράστηκαν."
+
+#: admin/view-wizard-step-wc-pages.php:60
+msgid "Finally, we are going to ensure that all the WooCommerce pages are created and translated."
+msgstr "Επιτέλους, πρόκειται να σιγουρευτούμε ότι όλες οι σελίδες WooCommerce δημιουργήθηκαν και μεταφράστηκαν."
+
+#: admin/view-wizard-step-wc-pages.php:34
+msgid "Missing plugin translations"
+msgstr "Λείπουν μεταφράσεις προσθέτων"
+
+#: admin/view-wizard-step-wc-pages.php:27
+msgid "All the WooCommerce pages have already been created and translated, but some plugin translations have not been installed yet. We will try to install the plugin translations, if available."
+msgstr "Όλες οι σελίδες WooCommerce έχουν ήδη δημιουργηθεί και μεταφράστηκαν, αλλά κάποιες μεταφράσεις του πρόσθετου δεν έχουν εγκατασταθεί ακόμη. Θα προσπαθήσουμε να εγκαταστήσουμε τις μεταφράσεις προσθέτου, αν είναι διαθέσιμες."
+
+#: admin/view-wizard-step-wc-pages.php:20
+msgid "For your multilingual shop to work correctly, all the WooCommerce pages must be created and translated."
+msgstr "Για να λειτουργεί σωστά το πολυγλωσσικό σας κατάστημα, πρέπει δημιουργηθούν όλες οι σελίδες WooCommerce και να μεταφράστούν."
+
+#: admin/view-wizard-step-wc-pages.php:15
+msgid "WooCommerce pages"
+msgstr "Σελίδες WooCommerce"
+
+#: admin/wizard.php:100
+msgid "Update translations"
+msgstr "Ενημέρωση μεταφράσεων"
+
+#. Author of the plugin
+msgid "WP SYNTEX"
+msgstr "WP SYNTEX"
+
+#: admin/admin-wc-install.php:288
+msgctxt "Default category slug"
+msgid "Uncategorized"
+msgstr "Χωρίς κατηγορία"
+
+#: admin/admin-wc-install.php:224
+msgid "All missing WooCommerce pages successfully installed"
+msgstr "Όλες οι μη υπάρχουσες σελίδες WooCommerce εγκαταστάθηκαν επιτυχώς"
+
+#: admin/admin-wc-install.php:185
+msgctxt "Page title"
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+#: admin/admin-wc-install.php:184
+msgctxt "Page slug"
+msgid "my-account"
+msgstr "ο-λογαριασμός-μου"
+
+#: admin/admin-wc-install.php:180
+msgctxt "Page title"
+msgid "Checkout"
+msgstr "Ολοκλήρωση αγορών"
+
+#: admin/admin-wc-install.php:179
+msgctxt "Page slug"
+msgid "checkout"
+msgstr "ολοκλήρωση αγορών"
+
+#: admin/admin-wc-install.php:175
+msgctxt "Page title"
+msgid "Cart"
+msgstr "Καλάθι"
+
+#: admin/admin-wc-install.php:174
+msgctxt "Page slug"
+msgid "cart"
+msgstr "καλάθι"
+
+#: admin/admin-wc-install.php:170
+msgctxt "Page title"
+msgid "Shop"
+msgstr "Κατάστημα"
+
+#: admin/admin-wc-install.php:169
+msgctxt "Page slug"
+msgid "shop"
+msgstr "κατάστημα"
+
+#: admin/admin-wc-install.php:119
+msgid "This tool will install all the missing WooCommerce pages. Pages already defined and set up will not be replaced."
+msgstr "Αυτό το εργαλείο θα εγκαταστήσει όλες τις μη υπάρχουσες σελίδες WooCommerce. Οι ήδη καθορισμένες σελίδες δεν θα αντικατασταθούν."
+
+#: admin/admin-wc-install.php:118
+msgid "Note:"
+msgstr "Σημείωση:"
+
+#: admin/admin-wc-install.php:115
+msgid "Install pages"
+msgstr "Εγκατάσταση σελίδων"
+
+#: admin/admin-wc-install.php:114
+msgid "Install WooCommerce pages"
+msgstr "Εγκατάσταση σελίδων WooCommerce"
+
+#: admin/admin-wc-install.php:94
+msgid "Terms and Conditions Page"
+msgstr "Σελίδα όρων και προϋποθέσεων"
+
+#: admin/admin-wc-install.php:90
+msgid "My Account Page"
+msgstr "Σελίδα ο λογαριασμός μου"
+
+#: admin/admin-wc-install.php:86
+msgid "Checkout Page"
+msgstr "Σελίδα Ολοκλήρωσης Αγορών"
+
+#: admin/admin-wc-install.php:82
+msgid "Cart Page"
+msgstr "Σελίδα καλαθιού"
+
+#: admin/admin-wc-install.php:78
+msgid "Shop Page"
+msgstr "Σελίδα καταστήματος"
+
+#: admin/admin-menus.php:126
+msgid "Lost password"
+msgstr "Χαμένο συνθηματικό"
+
+#: admin/admin-menus.php:66
+msgid "Add to menu"
+msgstr "Προσθήκη στο μενού"
+
+#: admin/admin-menus.php:63
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+#: admin/admin-menus.php:43
+msgid "WooCommerce endpoints"
+msgstr "WooCommerce endpoints"
+
+#. translators: %s comma separated list of native languages names
+#: admin/admin-status-reports.php:116
+msgid "The shortcode is missing for the translation in %s"
+msgid_plural "The shortcode is missing for the translations in %s"
+msgstr[0] "Λείπει σύντομος κωδικός για την μετάφραση στο %s"
+msgstr[1] "Λείπει ο σύντομος κωδικός για τις μετάφρασεις στο %s"
+
+#. translators: %s comma separated list of native languages names
+#: admin/admin-status-reports.php:97
+msgid "Missing translation: %s"
+msgid_plural "Missing translations: %s"
+msgstr[0] "Χωρίς μετάφραση: %s"
+msgstr[1] "Χωρίς μετάφρασεις: %s"
+
+#: admin/admin-status-reports.php:83
+msgid "Page not set"
+msgstr "Η σελίδα δεν ορίστηκε"
+
+#: admin/admin-status-reports.php:63
+msgid "The status of your WooCommerce shop's “My Account” page translations."
+msgstr "Η κατάσταση μεταφράσεων της σελίδας \"Ο Λογαριασμός μου\" του καταστήματος σας WooCommerce."
+
+#: admin/admin-status-reports.php:60
+msgctxt "Page setting"
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+#: admin/admin-status-reports.php:58
+msgid "The status of your WooCommerce shop's checkout page translations."
+msgstr "Η κατάσταση μεταφράσεων της ολοκλήρωσης αγορών του καταστήματος σας WooCommerce."
+
+#: admin/admin-status-reports.php:55
+msgctxt "Page setting"
+msgid "Checkout"
+msgstr "Ολοκλήρωση αγορών"
+
+#: admin/admin-status-reports.php:53
+msgid "The status of your WooCommerce shop's cart translations."
+msgstr "Η κατάσταση μεταφράσεων του καλαθιού του καταστήματος σας WooCommerce."
+
+#: admin/admin-status-reports.php:50
+msgctxt "Page setting"
+msgid "Cart"
+msgstr "Καλάθι"
+
+#: admin/admin-status-reports.php:48
+msgid "The status of your WooCommerce shop's homepage translations."
+msgstr "Η κατάσταση μεταφράσεων της αρχικής σελίδας του καταστήματος σας WooCommerce."
+
+#: admin/admin-status-reports.php:45
+msgctxt "Page setting"
+msgid "Shop base"
+msgstr "Βάση καταστήματος"
+
+#. translators: %s is a page name
+#: admin/view-status-report.php:24
+msgid "Edit %s page"
+msgstr "Επεξεργασία της σελίδα %s"
+
+#: admin/admin-site-health.php:34 admin/view-status-report.php:15
+#: admin/view-wizard-status-report.php:15
+msgid "WooCommerce pages translations"
+msgstr "Μεταφράσεις σελίδων WooCommerce"
+
+#. translators: %s contains the name of the original product.
+#: admin/admin-product-duplicate.php:88
+msgid "%s (Copy)"
+msgstr "%s (Αντιγραφή)"
+
+#. translators: %1$s and %2$s are plugin version numbers, %3$s is the plugin
+#. name (Polylang or Polylang Pro)
+#: polylang-wc.php:411
+msgid "You are using %3$s %1$s. Polylang for WooCommerce requires at least %3$s %2$s."
+msgstr "Χρησιμοποιείτε το %3$s %1$s. To Polylang for WooCommerce απαιτεί τουλάχιστον το Polylang %3$s %2$s."
+
+#. translators: %s is the plugin name (Polylang or Polylang Pro)
+#: polylang-wc.php:404
+msgid "Polylang for WooCommerce has been deactivated because you are using an old version of %s."
+msgstr "Το Polylang for WooCommerce απενεργοποιήθηκε γιατί χρησιμοποιείτε μια παλιά έκδοση του Polylang του %s."
+
+#: plugins/wcfd.php:85 plugins/wcfd.php:108
+msgid "Placeholder"
+msgstr "Κράτηση θέσης"
+
+#: plugins/bookings.php:773
+msgid "night"
+msgid_plural "nights"
+msgstr[0] "νύχτα"
+msgstr[1] "νύχτες"
+
+#: plugins/bookings.php:770
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "λεπτό"
+msgstr[1] "λεπτά"
+
+#: plugins/bookings.php:767
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ώρα"
+msgstr[1] ""
+
+#: plugins/bookings.php:763
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "εβδομάδα"
+msgstr[1] ""
+
+#: plugins/bookings.php:761
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ημέρα"
+msgstr[1] ""
+
+#: plugins/bookings.php:757
+msgid "month"
+msgid_plural "months"
+msgstr[0] "μήνας"
+msgstr[1] ""
+
+#: plugins/subscriptions.php:41
+msgid "Switch Button Text"
+msgstr "Εναλλαγή κουμπιού κειμένου"
+
+#: plugins/subscriptions.php:40
+msgid "Place Order Button Text"
+msgstr "Κείμενο κουμπιού υποβολή παραγγελίας"
+
+#: plugins/subscriptions.php:39
+msgid "Add to Cart Button Text"
+msgstr "Κείμενο κουμπιού προσθήκη στο καλάθι"
+
+#: plugins/table-rate-shipping.php:43 plugins/wcfd.php:81 plugins/wcfd.php:104
+msgid "Label"
+msgstr "Λεζάντα"
+
+#. translators: %s is a link to the Stripe documentation
+#: plugins/stripe.php:66
+msgid "TEST MODE ENABLED. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the documentation \"<a href=\"%s\">Testing Stripe</a>\" for more card numbers."
+msgstr "ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ ΚΑΤΑΣΤΑΣΗ ΔΟΚΙΜΗΣ. Στην κατάσταση δοκιμής, μπορείτε να χρησιμοποιήσετε τον αριθμό κάρτας 4242424242424242 και με οποιοδήποτε CVC και έγκυρη ημερομηνία λήξης ή δείτε την τεκμηρίωση \"<a href=\"%s\">Testing Stripe</a>\" για περισσότερους αριθμούς καρτών."
+
+#: include/strings.php:228
+msgid "Tax name"
+msgstr "Όνομα φόρου"
+
+#: include/strings.php:222 include/strings.php:265
+#: tests/phpunit/tests/test-strings.php:121
+msgid "Attribute"
+msgstr "Χαρακτηριστικό"
+
+#: include/strings.php:191 include/strings.php:256
+msgid "Bank name"
+msgstr "Όνομα τράπεζας"
+
+#: include/strings.php:190 include/strings.php:256
+msgid "Account name"
+msgstr "Όνομα λογαριασμού"
+
+#: include/strings.php:62
+msgid "Terms and conditions"
+msgstr "Όροι και προϋποθέσεις"
+
+#: include/strings.php:61
+msgid "Checkout privacy policy"
+msgstr "Πολιτική απορρήτου ολοκλήρωσης αγορών"
+
+#: include/strings.php:60
+msgid "Registration privacy policy"
+msgstr "Πολτική απορρήτου εγγραφής"
+
+#: include/strings.php:59
+msgid "Decimal separator"
+msgstr "Διαχωριστής δεκαδικών"
+
+#: include/strings.php:58
+msgid "Thousand separator"
+msgstr "Διαχωριστής χιλιάδων"
+
+#: include/strings.php:57 include/strings.php:260
+#: tests/phpunit/tests/test-strings.php:108
+#: tests/phpunit/tests/test-strings.php:109
+#: tests/phpunit/tests/test-strings.php:110
+#: tests/phpunit/tests/test-strings.php:111
+#: tests/phpunit/tests/test-strings.php:113
+#: tests/phpunit/tests/test-strings.php:116
+msgid "Currency position"
+msgstr "Θέση νομίσματος"
+
+#: include/strings.php:55 tests/phpunit/tests/test-strings.php:104
+msgid "Store notice text"
+msgstr "Κείμενο ειδοποίησης καταστήματος"
+
+#: include/strings.php:54 tests/phpunit/tests/test-strings.php:100
+msgid "Footer text"
+msgstr "Κείμενο υποσέλιδου"
+
+#: include/export.php:38 include/import.php:58 include/import.php:83
+msgid "Translation group"
+msgstr "Ομάδα μετάφρασης"
+
+#: admin/admin-orders.php:61 admin/admin-orders.php:97
+#: admin/admin-orders.php:135 include/export.php:37 include/import.php:57
+#: include/import.php:82 plugins/subscriptions.php:224
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: include/xdata-session-manager.php:68
+msgid "An error has occurred."
+msgstr "Παρουσιάστηκε ένα σφάλμα."
+
+#. Description of the plugin
+msgid "Adds multilingual capability to WooCommerce"
+msgstr "Προσθέτει την δυνατότητα πολυγλωσσικότητας στο WooCommerce"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://polylang.pro"
+msgstr "https://polylang.pro"
+
+#. Plugin Name of the plugin
+msgid "Polylang for WooCommerce"
+msgstr "Polylang for WooCommerce"

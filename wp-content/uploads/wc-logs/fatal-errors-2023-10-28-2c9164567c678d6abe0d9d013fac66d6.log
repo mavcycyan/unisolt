@@ -1,0 +1,20 @@
+2023-10-28T08:42:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 3447
+
+2023-10-28T15:17:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:38:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:41:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:42:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-28T19:44:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:46:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:48:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-28T19:49:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2459
+
+2023-10-28T19:51:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2459
+

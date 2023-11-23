@@ -1,0 +1,414 @@
+# Translation of Plugins - reGenerate Thumbnails Advanced - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - reGenerate Thumbnails Advanced - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 11:29:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - reGenerate Thumbnails Advanced - Stable (latest release)\n"
+
+#: templates/admin/view_regenerate_process.php:70
+msgid "This can take a few seconds"
+msgstr "Это может занять несколько секунд"
+
+#: templates/admin/view_regenerate_process.php:69
+msgid "Process is pausing, please wait"
+msgstr "Процесс приостановлен, подождите"
+
+#: templates/admin/view_regenerate_process.php:62
+msgid "Click Resume Process to continue"
+msgstr "Чтобы продолжить, нажмите \"Возобновить процесс\""
+
+#: templates/admin/view_regenerate_process.php:61
+msgid "Process is paused"
+msgstr "Процесс приостановлен"
+
+#: templates/admin/view_regenerate_process.php:38
+msgid "Resume Process"
+msgstr "Возобновить процесс"
+
+#: templates/admin/view_regenerate_process.php:37
+msgid "Pause Process"
+msgstr "Приостановить процесс"
+
+#: build/shortpixel/notices/src/NoticeModel.php:218
+msgid "Hide Details"
+msgstr "Спрятать Детали"
+
+#: build/shortpixel/notices/src/NoticeModel.php:214
+msgid "See Details"
+msgstr "Посмотреть подробности"
+
+#: classes/Plugin.php:164
+msgid "A fatal error occured!"
+msgstr "Произошла неустранимая ошибка!"
+
+#: classes/AjaxController.php:104
+msgid "<b>%s</b> failed on metadata. Possible issue with image"
+msgstr "Сбой <b>%s</b> для метаданных. Возможная проблема с изображением"
+
+#: classes/AjaxController.php:99
+msgid "<b>%s</b> skipped. MimeType is an image, but reports non-displayable"
+msgstr "<b>%s</b> пропущено. MimeType - это изображение, но отчеты не отображаются"
+
+#: classes/AjaxController.php:94
+msgid "<b>%s</b> is missing or not an image file"
+msgstr "<b>%s</b> отсутствует или не является файлом изображения"
+
+#: classes/AjaxController.php:85
+msgid "Preparing failed"
+msgstr "Подготовка не удалась"
+
+#: classes/AjaxController.php:79
+msgid "Prepared %s items"
+msgstr "Подготовлено %s элементов"
+
+#: classes/AjaxController.php:74
+msgid "Preparing Images and Thumbnails"
+msgstr "Подготовка изображений и миниатюр"
+
+#: templates/admin/view_ad.php:10
+msgid "Find Out More"
+msgstr "Узнать больше"
+
+#: templates/admin/view_ad.php:9
+msgid "ARE YOU CONCERNED WITH YOUR SITE SPEED? Allow ShortPixel specialists to find the solution for you."
+msgstr "ВЫ ОБЕСПОКОЕНЫ СКОРОСТЬЮ ВАШЕГО САЙТА? Позвольте специалистам ShortPixel найти решение для вас."
+
+#: templates/admin/view_rta_settings.php:36
+#: templates/admin/view_rta_settings.php:57
+msgid "Name"
+msgstr "Название"
+
+#: templates/admin/view_rta_settings.php:18
+msgid "Public Name"
+msgstr "Публичное имя"
+
+#: templates/admin/view_regenerate_process.php:10
+msgid "Last Regenerated Image:"
+msgstr "Последнее регенерированное изображение:"
+
+#: build/shortpixel/log/src/DebugItem.php:35
+msgid "[Data]"
+msgstr "[Данные]"
+
+#: classes/AjaxController.php:109
+msgid "Process stopped on request"
+msgstr "Процесс остановлен по запросу"
+
+#: classes/AjaxController.php:89
+msgid "No images found for this period and/or settings or none uploaded"
+msgstr "Не найдено изображений для этого периода и/или настроек или не загружено ни одного изображения"
+
+#: classes/AjaxController.php:70
+msgid "Site error, Invalid Nonce"
+msgstr "Ошибка сайта, недопустимый Nonce (одноразовый номер)"
+
+#: classes/AjaxController.php:57
+msgid "Unknown Error occured"
+msgstr "Произошла неизвестная ошибка"
+
+#: classes/Admin.php:152
+msgid "Image thumbnails regenerated"
+msgstr "Миниатюры изображений восстановлены"
+
+#: classes/Controllers/AdminController.php:202
+msgid "Don't redo existing"
+msgstr "Не переделывать существующие"
+
+#: classes/Plugin.php:163
+msgid "Process finished"
+msgstr "Процесс завершен"
+
+#: classes/Plugin.php:162
+msgid "New Process started"
+msgstr "Новый процесс запущен"
+
+#: classes/Plugin.php:161
+msgid "Interrupted process resumed"
+msgstr "Возобновлен прерванный процесс"
+
+#: classes/Plugin.php:124
+msgid "No Attachment ID found, not regenerating"
+msgstr "ID вложения не найден, не будет восстанавливаться"
+
+#: classes/Plugin.php:120
+msgid "Incorrect nonce"
+msgstr "Неверный одноразовый номер (nonce)"
+
+#: templates/admin/rta_generate_thumbnails.php:12
+msgid "Regenerate Options"
+msgstr "Опции регенерации"
+
+#: templates/admin/view_rta_settings.php:90
+msgid "%s Don't redo existing %s  - prevent regenerating images that already have these sizes as a thumbnail file. "
+msgstr "%s Не переделывать существующие %s - запретить регенерацию изображений, которые уже имеют такие размеры в виде миниатюр. "
+
+#: templates/admin/view_rta_settings.php:89
+msgid "Select the thumbnails you want to regenerate. "
+msgstr "Выберите миниатюры, которые необходимо регенерировать. "
+
+#: templates/admin/view_rta_settings.php:81
+msgid "Regenerate these thumbnails:"
+msgstr "Регенерировать эти миниатюры:"
+
+#: templates/admin/view_rta_regenerate.php:75
+msgid "For removing images that are gone on disk, but still in media library"
+msgstr "Для удаления образов, которые остались на диске, но все еще находятся в библиотеке мультимедиа"
+
+#: templates/admin/view_rta_regenerate.php:74
+msgid "If the main image does not exist, removes this image, thumbnails and metadata"
+msgstr "Если основное изображение не существует, удаляет это изображение, миниатюры и метаданные"
+
+#: templates/admin/view_rta_regenerate.php:71
+msgid "Remove non-existent images"
+msgstr "Удалить несуществующие изображения"
+
+#: templates/admin/view_rta_regenerate.php:65
+msgid "Regenerate Thumbnails Advanced will not prevent new media uploads from generating removed sizes"
+msgstr "Расширенная регенерация миниатюр, не помешает новым загрузкам мультимедиа создавать удаленные размеры"
+
+#: templates/admin/view_rta_regenerate.php:63
+msgid "Not selected thumbnails will be removed from your site. Check your settings if this is intentional."
+msgstr "Не выбранные миниатюры будут удалены с вашего сайта. Проверьте свои настройки, если это происходит намеренно."
+
+#: templates/admin/view_rta_regenerate.php:57
+msgid "Delete thumbnails and metadata not selected in the settings. Will delete thumbnails from disk - be sure they are not in use.  "
+msgstr "Удалить миниатюры и метаданные, не выбранных в параметрах настройки. Удалит миниатюры с диска - убедитесь, что они не используются. "
+
+#: templates/admin/view_rta_regenerate.php:55
+msgid "Delete Unselected Thumbnails"
+msgstr "Удалить невыбранные миниатюры"
+
+#: templates/admin/view_rta_regenerate.php:48
+msgid "Clean old metadata not defined in system sizes. Use after removing plugins / themes with old definitions. Will not remove thumbnails from disk"
+msgstr "Очистка старых метаданных, не определенных в системных размерах. Используйте после удаления плагинов / тем со старыми определениями. Не удаляет миниатюры с диска"
+
+#: templates/admin/view_rta_regenerate.php:45
+msgid "Clean unknown metadata"
+msgstr "Очистка неизвестных метаданных"
+
+#: templates/admin/view_rta_regenerate.php:34
+msgid "Advanced options"
+msgstr "Дополнительные опции"
+
+#: templates/admin/view_regenerate_process.php:85
+msgid "Regenerate Thumbnails Advanced is done with your task"
+msgstr "Расширенная регенерация миниатюр, выполнила вашу задачу"
+
+#: templates/admin/view_regenerate_process.php:84
+msgid "Done!"
+msgstr "Готово!"
+
+#: templates/admin/view_regenerate_process.php:53
+msgid "Starting Process"
+msgstr "Запуск процесса"
+
+#: classes/Plugin.php:160
+msgid "This will stop the regeneration process. You want to stop?"
+msgstr "Это остановит процесс регенерации. Вы хотите остановить?"
+
+#: classes/Plugin.php:159
+msgid "Are you sure you want to delete this image size?"
+msgstr "Вы уверены, что хотите удалить этот размер изображения?"
+
+#: templates/admin/view_rta_regenerate.php:88
+msgid "Save your settings first"
+msgstr "Сначала сохраните настройки"
+
+#: templates/admin/view_rta_regenerate.php:87
+msgid "Regenerate"
+msgstr "Регенерировать"
+
+#: templates/admin/view_regenerate_process.php:115
+msgid "%s Activate ShortPixel %s to optimize your newly generated thumbnails."
+msgstr "%s Активируйте ShortPixel %s для оптимизации вновь созданных миниатюр."
+
+#: templates/admin/view_regenerate_process.php:110
+msgid "Thumbnails successfully regenerated. <strong>Go to %s ShortPixel Bulk page %s to optimize the updated thumbnails.</strong>"
+msgstr "Миниатюры успешно регенерированы. <strong>Перейдите на страницу %s ShortPixel Bulk %s, чтобы оптимизировать обновленные миниатюры.</strong>"
+
+#: templates/admin/view_regenerate_process.php:104
+msgid "More info"
+msgstr "Подробнее"
+
+#: templates/admin/view_regenerate_process.php:100
+msgid "Get more Google love by compressing your site's images! Check out how much ShortPixel can save your site and get +50% credits when signing up as an Regenerate Thumbnails Advanced user! Forever!"
+msgstr "Получите больше любви от Google, сжимая изображения вашего сайта! Узнайте, сколько ShortPixel может сохранить ваш сайт и получить + 50% баллов при регистрации в качестве пользователя Repenerate Thumbnails Advanced! Навсегда!"
+
+#: templates/admin/view_regenerate_process.php:91
+msgid "Optimize your images with ShortPixel, get +50% credits!"
+msgstr "Оптимизируйте свои изображения с помощью ShortPixel, получайте +50% кредитов!"
+
+#: templates/admin/view_regenerate_process.php:43
+msgid "Stop Process"
+msgstr "Остановить процесс"
+
+#: templates/admin/view_regenerate_process.php:54
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите..."
+
+#: templates/admin/view_rta_settings.php:86
+msgid "Deselect All"
+msgstr "Снять все выделения"
+
+#: templates/admin/view_rta_settings.php:85
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: classes/Controllers/AdminController.php:36
+msgid "Right bottom"
+msgstr "Справа внизу"
+
+#: classes/Controllers/AdminController.php:35
+msgid "Right center"
+msgstr "Справа по центру"
+
+#: classes/Controllers/AdminController.php:34
+msgid "Right top"
+msgstr "Справа сверху"
+
+#: classes/Controllers/AdminController.php:33
+msgid "Center bottom"
+msgstr "По центру внизу"
+
+#: classes/Controllers/AdminController.php:32
+msgid "Center center"
+msgstr "В самом центре"
+
+#: classes/Controllers/AdminController.php:31
+msgid "Center top"
+msgstr "По центру вверху"
+
+#: classes/Controllers/AdminController.php:30
+msgid "Left bottom"
+msgstr "Слева внизу"
+
+#: classes/Controllers/AdminController.php:29
+msgid "Left center"
+msgstr "Слева по центру"
+
+#: classes/Controllers/AdminController.php:28
+msgid "Left top"
+msgstr "Слева сверху"
+
+#: classes/Controllers/AdminController.php:27
+msgid "Yes"
+msgstr "Да"
+
+#: classes/Controllers/AdminController.php:26
+msgid "No"
+msgstr "Нет"
+
+#: templates/admin/view_rta_regenerate.php:19
+msgid "Past Year"
+msgstr "Последний год"
+
+#: templates/admin/view_rta_regenerate.php:18
+msgid "Past 6 Months"
+msgstr "Последние 6 месяцев"
+
+#: templates/admin/view_rta_regenerate.php:17
+msgid "Past 3 Months"
+msgstr "Последние 3 месяца"
+
+#: templates/admin/view_rta_regenerate.php:16
+msgid "Past Month"
+msgstr "Последний месяц"
+
+#: templates/admin/view_rta_regenerate.php:15
+msgid "Past Week"
+msgstr "Последняя неделя"
+
+#: templates/admin/view_rta_regenerate.php:14
+msgid "Past Day"
+msgstr "Последний день"
+
+#: templates/admin/view_rta_regenerate.php:13
+msgid "All"
+msgstr "Все"
+
+#: templates/admin/view_rta_regenerate.php:11
+msgid "Regenerate period:"
+msgstr "Период регенерации:"
+
+#: templates/admin/view_rta_settings.php:108
+msgid "Saving"
+msgstr "Сохранение"
+
+#: templates/admin/view_rta_settings.php:107
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: templates/admin/view_rta_settings.php:99
+msgid "Default JPEG Quality"
+msgstr "Качество JPEG (по умолчанию)"
+
+#: templates/admin/view_rta_settings.php:48
+#: templates/admin/view_rta_settings.php:65
+msgid "Image Size name"
+msgstr "Размер имени изображения"
+
+#: templates/admin/view_rta_settings.php:40
+#: templates/admin/view_rta_settings.php:59
+msgid "Height"
+msgstr "Высота"
+
+#: templates/admin/view_rta_settings.php:38
+#: templates/admin/view_rta_settings.php:58
+msgid "Width"
+msgstr "Ширина"
+
+#: templates/admin/view_rta_settings.php:22
+msgid "Image Size Name"
+msgstr "Размер имени изображения"
+
+#: templates/admin/view_rta_settings.php:21
+msgid "Cropping"
+msgstr "Кадрирование"
+
+#: templates/admin/view_rta_settings.php:20
+msgid "Max. Height"
+msgstr "Макс. высота"
+
+#: templates/admin/view_rta_settings.php:19
+msgid "Max. Width"
+msgstr "Макс. ширина"
+
+#: templates/admin/view_rta_settings.php:8
+msgid "Add New Size"
+msgstr "Добавить новый размер"
+
+#: templates/admin/view_rta_settings.php:8
+msgid "Image Sizes"
+msgstr "Размеры изображения"
+
+#: classes/Plugin.php:84 classes/Plugin.php:176 classes/Plugin.php:226
+#: classes/Plugin.php:261 classes/Plugin.php:283 classes/Plugin.php:285
+msgid "Regenerate Thumbnails"
+msgstr "Регенерировать миниатюры"
+
+#: classes/Plugin.php:182 templates/admin/rta_generate_thumbnails.php:16
+msgid "Settings"
+msgstr "Настройки"
+
+#. Author URI of the plugin
+msgid "https://shortpixel.com/"
+msgstr "https://shortpixel.com/"
+
+#. Author of the plugin
+msgid "ShortPixel"
+msgstr "ShortPixel"
+
+#. Description of the plugin
+msgid "Regenerate thumbnails fast and easy while removing unused thumbnails of existing images; very useful when changing a theme."
+msgstr "Быстрая и простая регенерация миниатюр, удаление неиспользуемых миниатюр существующих изображений; очень полезно при изменении темы."
+
+#. Plugin Name of the plugin
+#: templates/admin/rta_generate_thumbnails.php:6
+msgid "Regenerate Thumbnails Advanced"
+msgstr "reGenerate Thumbnails Advanced"

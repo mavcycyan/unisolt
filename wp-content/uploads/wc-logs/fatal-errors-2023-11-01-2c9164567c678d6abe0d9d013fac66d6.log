@@ -1,0 +1,72 @@
+2023-11-01T19:12:33+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:12:55+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:13:27+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:13:35+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:13:41+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:14:06+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:15:18+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:58:01+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+
+2023-11-01T19:58:23+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php:29
+Stack trace:
+#0 /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/template-loader.php(106): include()
+#1 /var/www/vhosts/unisolt.cy/httpdocs/wp-blog-header.php(19): require_once('...')
+#2 /var/www/vhosts/unisolt.cy/httpdocs/index.php(17): require('...')
+#3 {main}
+  thrown в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/themes/unisolt/single-ideas.php на строке 29
+

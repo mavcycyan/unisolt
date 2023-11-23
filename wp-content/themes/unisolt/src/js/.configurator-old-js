@@ -1,0 +1,137 @@
+( function( $ ) {
+    var slider = $( '.js-confSliderFirst' ).slick( {
+        fade: false,
+        dots: false,
+        arrows: true,
+        infinite: true,
+        speed: 700,
+        slidesToShow: 3,
+        draggable: false,
+        variableWidth: false,
+        autoplay: false,
+        autoplaySpeed: 5000,
+        pauseOnFocus: false,
+        pauseOnHover: false,
+        pauseOnDotsHover: false,
+        vertical: true,
+        verticalSwiping: false,
+        prevArrow: '<button class="arrow prev-arrow"><svg width="17" height="29" viewBox="0 0 17 29" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.7635 29C15.6088 28.7121 16.1237 28.0172 16.6745 27.387C17.124 26.8716 17.0785 26.036 16.6503 25.4993C16.548 25.376 16.4391 25.2583 16.3242 25.1467C12.8722 21.685 9.41879 18.2248 5.96388 14.7661C5.87402 14.6883 5.77825 14.6177 5.67743 14.5548C5.80597 14.4194 5.88015 14.3376 5.958 14.2603C9.4369 10.7687 12.9163 7.27885 16.3962 3.79068C17.0168 3.16564 17.2056 2.40145 16.7421 1.77862C16.3053 1.20244 15.7921 0.688728 15.2166 0.251718C14.6842 -0.158351 13.968 -0.0376124 13.4385 0.39896C13.3587 0.464747 13.2822 0.53453 13.2093 0.608044C9.00382 4.82015 4.79853 9.03471 0.593485 13.2517C-0.0359497 13.8827 -0.173294 14.6189 0.222582 15.2999C0.326632 15.4681 0.451777 15.6222 0.594954 15.7585C4.79755 19.977 9.00431 24.1896 13.2152 28.3963C13.4708 28.651 13.8307 28.8012 14.1421 29H14.7635Z" fill="#090909"/> </svg></button>"',
+        nextArrow: '<button class="arrow next-arrow"><svg width="17" height="29" viewBox="0 0 17 29" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.23653 29C1.39116 28.7121 0.876302 28.0172 0.325455 27.387C-0.124036 26.8716 -0.0784991 26.036 0.349693 25.4993C0.452012 25.376 0.56087 25.2583 0.675794 25.1467C4.12777 21.685 7.58121 18.2248 11.0361 14.7661C11.126 14.6883 11.2217 14.6177 11.3226 14.5548C11.194 14.4194 11.1199 14.3376 11.042 14.2603C7.5631 10.7687 4.0837 7.27885 0.603817 3.79068C-0.0168043 3.16564 -0.205561 2.40145 0.257885 1.77862C0.694688 1.20244 1.20792 0.688728 1.78336 0.251718C2.31585 -0.158351 3.03195 -0.0376124 3.5615 0.39896C3.64134 0.464747 3.71782 0.53453 3.79065 0.608044C7.99618 4.82015 12.2015 9.03471 16.4065 13.2517C17.0359 13.8827 17.1733 14.6189 16.7774 15.2999C16.6734 15.4681 16.5482 15.6222 16.405 15.7585C12.2025 19.977 7.99569 24.1896 3.78477 28.3963C3.52918 28.651 3.16929 28.8012 2.85788 29H2.23653Z" fill="#090909"/> </svg></button>',
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    vertical: false,
+                    slidesToShow: 4,
+                    arrows: false,
+                    touchMove: true
+                }
+            }
+        ]
+
+    } );
+
+    var configurator = {
+        step1: 'rectangle',
+        step2: {
+            width: null,
+            height: null,
+            diameter: null
+        },
+        step3: {
+            name: '',
+            cost: null
+        },
+        step4: {
+            name: '',
+            cost: null
+        },
+    };
+
+    /*choose actions*/
+    $('.js-confFirstType').click(function(){
+        $('.js-confFirstTypeCanv div').addClass('d-none');
+        $('.js-confFirstTypeCanv div[data-first="' + $(this).data('first') + '"]').removeClass('d-none');
+        $('.js-confFirstType').removeClass('active');
+        $(this).addClass('active');
+        configurator.step1 = $(this).data('first');
+        $('.js-confAppCont').removeClass(['chosen-rectangle', 'chosen-circle', 'chosen-square', 'chosen-hexagon']);
+        $('.js-confAppCont').addClass('chosen-' + $(this).data('first'));
+
+        if ($(this).data('first') === 'circle' || $(this).data('first') === 'hexagon') {
+            $('.js-confItemNeedHid').addClass('d-none');
+        }
+
+        $('.js-fifthType > *').removeClass('current');
+        $('.js-fifthType [data-type="' + configurator.step1 + '"]').addClass('current');
+    });
+
+    $('.js-confThirdChoose').click(function(){
+        var wrap = $(this).closest('.js-confImg');
+        wrap.find('.js-confImgChosen').val($(this).data('choose-img'));
+        $(this).toggleClass('active');
+        var step = wrap.data('choose-step');
+        configurator[step] = $(this).data('choose-type');
+    });
+
+    $('.js-confFourthChoose').click(function(){
+        var wrap = $(this).closest('.js-confImg');
+        wrap.find('.js-confImgChosen').val($(this).data('choose-img'));
+        $('.js-confFourthChoowse').removeClass('active');
+        $(this).addClass('active');
+        var step = wrap.data('choose-step');
+        configurator[step] = $(this).data('choose-type');
+    });
+    /*choose actions*/
+
+    /*area_calculating*/
+    $('.js-confSetValue').keyup(function() {
+        var type = $(this).data('type');
+        sq_metres = 0;
+        if (type === 'width') {
+            var width = parseInt($(this).val());
+            var height = parseInt(($('.js-confSetValue[data-type="height"]').val() !== '') ? $(this).val() : 0);
+            sq_metres = width * height;
+        } else if (type === 'height') {
+            var height = parseInt($(this).val());
+            var width = parseInt(($('.js-confSetValue[data-type="width"]').val() !== '') ? $(this).val() : 0);
+            sq_metres = width * height;
+        } else if (type === "diam") {
+            var diam = parseInt($(this).val());
+            sq_metres = (1 / 4) * 3.1415926535 * Math.pow(diam, 2);
+        } else if (type === "side") {
+            var side = parseInt($(this).val());
+            sq_metres = Math.pow(side, 2);
+        } else if (type === "edge") {
+            var edge = parseInt($(this).val());
+            sq_metres = (3 * Math.sqrt(3) * Math.pow(edge, 2)) / 2;
+        }
+    });
+    /*area_calculating*/
+
+    $('.js-confNext, .js-confTopBtns').click(function() {
+        var number = $(this).data('step');
+        $('.js-confContScreens').removeClass('current');
+        if (number === 1) {
+            $('.js-confContScreens[data-screen="1"]').addClass('current');
+        } else if (number === 2) {
+            $('.js-confContScreens[data-screen="' + number + '-' + configurator.step1 + '"]').addClass('current');
+        } else {
+            $('.js-confContScreens[data-screen="' + number + '"]').addClass('current');
+        }
+        configTopMark(number);
+        slider.on('reInit');
+    });
+
+    function configTopMark(step) {
+        $('.js-confTopBtns').each(function(i, el){
+            if (i+1 <= step) {
+                $('.js-confTopBtns[data-step="' + (i+1) + '"]').addClass('current');
+            } else {
+                $('.js-confTopBtns[data-step="' + (i+1) + '"]').removeClass('current');
+            }
+        });
+    }
+
+
+}( jQuery ) );

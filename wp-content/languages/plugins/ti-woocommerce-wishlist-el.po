@@ -1,0 +1,1476 @@
+# Translation of Plugins - TI WooCommerce Wishlist - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - TI WooCommerce Wishlist - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-20 09:21:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - TI WooCommerce Wishlist - Stable (latest release)\n"
+
+#: admin/settings/general.class.php:311
+msgid "Plural form"
+msgstr "Πληθυντικός τύπος"
+
+#: admin/tinvwl.class.php:149
+msgid "TI Wishlist"
+msgstr "TI Wishlist"
+
+#: includes/api/wishlist.class.php:108
+msgid "WordPress user does not exist."
+msgstr "Ο χρήστης WordPress δεν υπάρχει."
+
+#: admin/settings/general.class.php:969 views/wizard/step-support.php:22
+msgid "Enable the support chat to get the most from our service and get answers to your questions promptly. We optimized the support process to get the required details from your current setup to solve your issues faster. Dedicated to your Care."
+msgstr "Ενεργοποιήστε τη συνομιλία υποστήριξης για να λάβετε τα περισσότερα από την υπηρεσία μας και να λάβετε απαντήσεις στις ερωτήσεις σας αμέσως. Βελτιστοποιήσαμε τη διαδικασία υποστήριξης για να λάβετε τις απαιτούμενες λεπτομέρειες από την τρέχουσα ρύθμιση για να επιλύσετε τα προβλήματά σας γρηγορότερα. Αφιερωμένο στη φροντίδα σας."
+
+#: admin/settings/integrations.class.php:55
+msgid "Integrations"
+msgstr "Ενσωματώσεις"
+
+#: admin/settings/integrations.class.php:89
+msgid "Available Integrations"
+msgstr "Διαθέσιμες ενσωματώσεις"
+
+#: admin/settings/integrations.class.php:56
+msgid "Wishlist Integrations with 3rd party plugins and themes"
+msgstr "Ενσωματώσεις λίστας επιθυμιών με πρόσθετα και θέματα τρίτων"
+
+#: admin/settings/integrations.class.php:92
+msgid "You can disable built-in integrations with 3rd party plugins and themes."
+msgstr "Μπορείτε να απενεργοποιήσετε τις ενσωματωμένες ενσωματώσεις με πρόσθετα και θέματα τρίτων."
+
+#: admin/settings/general.class.php:391
+msgid "After summary"
+msgstr "Μετά την περίληψη"
+
+#: integrations/theme-flatsome.php:216
+msgid "Custom Title"
+msgstr "Προσαρμοσμένος τίτλος"
+
+#: integrations/theme-flatsome.php:205
+msgid "Show Wishlist Title"
+msgstr "Εμφάνιση τίτλου λίστας επιθυμιών"
+
+#: admin/settings/general.class.php:390
+msgid "After Thumbnails"
+msgstr "Μετά τις μικρογραφίες"
+
+#: integrations/theme-flatsome.php:188
+msgid "Wishlist Icon Style"
+msgstr "Στυλ εικονιδίου λίστας επιθυμιών"
+
+#: includes/export.class.php:209
+msgid "There was an error exporting your settings, please try again."
+msgstr "Παρουσιάστηκε σφάλμα κατά την εξαγωγή των ρυθμίσεών σας, προσπαθήστε ξανά."
+
+#. Plugin Name of the plugin
+msgid "TI WooCommerce Wishlist"
+msgstr "TI WooCommerce Wishlist"
+
+#: public/addtowishlist.class.php:256 public/wishlist/ajax.class.php:89
+#: public/wishlist/ajax.class.php:132 public/wishlist/ajax.class.php:145
+#: public/wishlist/ajax.class.php:153 public/wishlist/ajax.class.php:189
+#: public/wishlist/ajax.class.php:197 public/wishlist/ajax.class.php:252
+#: public/wishlist/ajax.class.php:263
+msgid "Something went wrong"
+msgstr "Κάτι πήγε στραβά"
+
+#: views/admin/export-import-settings.php:88
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: views/admin/export-import-settings.php:79
+msgid "Export settings"
+msgstr "Εξαγωγή ρυθμίσεων"
+
+#: views/admin/export-import-settings.php:65
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: views/admin/export-import-settings.php:57
+msgid "upload the exported file"
+msgstr "μεταφόρτωση αρχείου εξαγωγής"
+
+#: views/admin/export-import-settings.php:33
+msgid "Import settings"
+msgstr "Ρυθμίσεις εισαγωγής"
+
+#: public/wishlist/social.class.php:157
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: admin/settings/settings.class.php:55
+msgid "Export/Import Settings"
+msgstr "Ρυθμίσεις Εξαγωγής/Εισαγωγής"
+
+#: admin/settings/settings.class.php:56
+msgid "Export/Import Plugin Settings"
+msgstr "Ρυθμίσεις Εξαγωγής/Εισαγωγής προσθέτου"
+
+#: public/wishlist/social.class.php:121
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: public/wishlist/social.class.php:110
+msgid "Twitter"
+msgstr "Twitter"
+
+#: public/wishlist/social.class.php:99
+msgid "Facebook"
+msgstr "Facebook"
+
+#: public/wishlist/social.class.php:146
+msgid "Clipboard"
+msgstr "Πρόχειρο"
+
+#: views/admin/export-import-settings.php:84
+msgid "Download the entire plugin configuration."
+msgstr "Κατεβάστε ολόκληρη τη διαμόρφωση του πρόσθετου."
+
+#: includes/export.class.php:175
+msgid "Please upload the TI WooCommerce Wishlist setting file or copy the content."
+msgstr "Παρακαλούμε ανεβάστε το αρχείο ρύθμισης λίστας επιθυμιών TI WooCommerce ή αντιγράψτε το περιεχόμενο."
+
+#: includes/export.class.php:147
+msgid "There was an error importing your settings, please try again."
+msgstr "Παρουσιάστηκε σφάλμα κατά την εισαγωγή των ρυθμίσεών σας, προσπαθήστε ξανά."
+
+#: views/admin/export-import-settings.php:21
+msgid "You can import and export your TI WooCommerce Wishlist plugin settings here. "
+msgstr "Μπορείτε να εισαγάγετε και να εξαγάγετε τις ρυθμίσεις του πρόσθετου TI WooCommerce Wishlist εδώ. "
+
+#: views/admin/export-import-settings.php:50
+msgid "paste the entire JSON"
+msgstr "Επικολλήστε ολόκληρο το JSON"
+
+#: includes/export.class.php:181
+msgid "The settings JSON is not valid."
+msgstr "Οι ρυθμίσεις JSON δεν είναι έγκυρες."
+
+#: views/admin/export-import-settings.php:55
+msgid "Please paste the exported JSON file or"
+msgstr "Επικολλήστε το εξαγόμενο αρχείο JSON ή"
+
+#: views/admin/export-import-settings.php:48
+msgid "Please upload the exported JSON file or"
+msgstr "Παρακαλούμε ανεβάστε το εξαγόμενο αρχείο JSON ή"
+
+#: integrations/wp-grid-builder.php:100
+msgid "Wishlist Button"
+msgstr "Κουμπί Λίστας επιθυμιών"
+
+#: integrations/automatewoo/trigger-wishlist-item-purchased.php:13
+msgid "Product Purchased From Wishlist (TI WooCommerce Wishlist)"
+msgstr "Προϊόν που αγοράστηκε από τη λίστα επιθυμιών (TI WooCommerce Wishlist)"
+
+#: integrations/automatewoo/trigger-wishlist-item-added-to-cart.php:13
+msgid "Customer Added Product From Wishlist To Cart (TI WooCommerce Wishlist)"
+msgstr "Ο πελάτης πρόσθεσε προϊόν από τη λίστα Επιθυμιών στο καλάθι (TI WooCommerce Wishlist)"
+
+#: integrations/automatewoo/trigger-wishlist-item-added.php:13
+msgid "Customer Added Product To Wishlist (TI WooCommerce Wishlist)"
+msgstr "Ο πελάτης πρόσθεσε προϊόν στη λίστα Επιθυμιών (TI WooCommerce Wishlist)"
+
+#: integrations/automatewoo/trigger-wishlist-reminder.php:42
+msgid "Once per customer"
+msgstr "Μια φορά ανά πελάτη"
+
+#: integrations/automatewoo/trigger-wishlist-reminder.php:36
+msgid "Reminder interval (days)"
+msgstr "Διάστημα υπενθύμισης (ημέρες)"
+
+#: integrations/automatewoo/trigger-wishlist-reminder.php:37
+msgid "E.g. Reminder any customers with items in a Wishlist every 30 days."
+msgstr "Π.χ. Υπενθυμίστε στους πελάτες με αντικείμενα σε μια λίστα επιθυμιών κάθε 30 ημέρες."
+
+#: admin/wishlist.class.php:30
+#: integrations/automatewoo/trigger-wishlist-item-added-to-cart.php:14
+#: integrations/automatewoo/trigger-wishlist-item-added.php:14
+#: integrations/automatewoo/trigger-wishlist-item-purchased.php:14
+#: integrations/automatewoo/trigger-wishlist-item-removed.php:14
+#: integrations/automatewoo/trigger-wishlist-reminder.php:23
+msgid "Wishlists"
+msgstr "Λίστες Επιθυμιών"
+
+#: integrations/automatewoo/trigger-wishlist-reminder.php:22
+msgid "Wishlist Reminder (TI WooCommerce Wishlist)"
+msgstr "Υπενθύμιση Λίστας Επιθυμιών (ΤΙ WooCommerce Λίστα Επιθυμιών)"
+
+#: integrations/automatewoo/trigger-wishlist-item-removed.php:13
+msgid "Customer Removed Product From Wishlist (TI WooCommerce Wishlist)"
+msgstr "Ο πελάτης αφαίρεσε προϊόν από τη λίστα Επιθυμιών (TI WooCommerce Wishlist)"
+
+#: admin/settings/general.class.php:503 admin/settings/general.class.php:656
+msgid "\"Already In Wishlist\" button Text"
+msgstr "Κείμενο κουμπιού \"Ήδη στην λίστα επιθυμιών\""
+
+#: admin/settings/general.class.php:493 admin/settings/general.class.php:646
+msgid "Show \"Already In Wishlist\" button Text"
+msgstr "Δείξε κουμπί Κειμένου \" Ήδη στη Λίστα Επιθυμιών \""
+
+#: integrations/woocommerce-rental-and-booking.php:130
+#: integrations/woocommerce-rental-and-booking.php:146
+msgid " Cost"
+msgstr "Κόστος"
+
+#: integrations/woocommerce-rental-and-booking.php:57
+msgid "Rental Product"
+msgstr "Ενοικιαζόμενο προϊόν"
+
+#: integrations/woocommerce-rental-and-booking.php:164
+#: integrations/woocommerce-rental-and-booking.php:180
+#: integrations/woocommerce-rental-and-booking.php:196
+msgid "Per Day"
+msgstr "Ανά ημέρα"
+
+#: integrations/woocommerce-rental-and-booking.php:257
+msgid "Total Days"
+msgstr "Συνολικές ημέρες"
+
+#: integrations/woocommerce-rental-and-booking.php:263
+msgid "Total Hours"
+msgstr "Σύνολο ωρών"
+
+#: integrations/woocommerce-rental-and-booking.php:230
+#: integrations/woocommerce-rental-and-booking.php:244
+msgid "at"
+msgstr "στο"
+
+#: integrations/woocommerce-rental-and-booking.php:154
+msgid "Location Cost"
+msgstr "Κόστος τοποθεσίας"
+
+#: integrations/woocommerce-rental-and-booking.php:166
+#: integrations/woocommerce-rental-and-booking.php:182
+#: integrations/woocommerce-rental-and-booking.php:198
+msgid "One Time"
+msgstr "Μια φορά"
+
+#: integrations/woocommerce-rental-and-booking.php:114
+msgid "Quote Request"
+msgstr "Αίτημα Προσφοράς"
+
+#: integrations/woocommerce-rental-and-booking.php:271
+msgid "Due Payment"
+msgstr "Καθυστερημένη πληρωμή"
+
+#: includes/api/wishlist.class.php:265
+msgid "Product removed from a wishlist."
+msgstr "Το προϊόν αφαιρέθηκε από τη λίστα Αγαπημένων"
+
+#: includes/api/wishlist.class.php:252 includes/api/wishlist.class.php:262
+msgid "Product not found."
+msgstr "Το προϊόν δεν βρέθηκε."
+
+#: includes/api/wishlist.class.php:149 includes/api/wishlist.class.php:153
+msgid "Update wishlist data failed."
+msgstr "Η ενημέρωση των δεδομένων της λίστας αγαπημένων απέτυχε."
+
+#: includes/api/wishlist.class.php:115
+msgid "No wishlists found for this user."
+msgstr "Δεν βρέθηκε λίστα αγαπημένων γι' αυτόν τον χρήστη."
+
+#: includes/api/wishlist.class.php:208 includes/api/wishlist.class.php:223
+msgid "Add product to wishlist failed."
+msgstr "Η προσθήκη προϊόντος στην λίστα Αγαπημένων απέτυχε."
+
+#: views/admin/premium-features.php:37
+msgid "100% No-Risk 14-Days Money Back Guarantee"
+msgstr "100% Χωρίς ρίσκο και σε 14 μέρες θα έχετε τα χρήματα σας πίσω"
+
+#: integrations/mycred.php:232 integrations/mycred.php:277
+msgid "Log Template"
+msgstr "Πρότυπο καταγραφής"
+
+#: integrations/mycred.php:246
+msgid "Purchasing Product from Wishlist"
+msgstr "Αγοράστε ένα προϊόν από την λίστα Αγαπημένων"
+
+#: integrations/mycred.php:236 integrations/mycred.php:281
+msgid "required"
+msgstr "απαραίτητο"
+
+#: integrations/mycred.php:219 integrations/mycred.php:264
+msgid "Limit"
+msgstr "Όριο"
+
+#: integrations/mycred.php:206 integrations/mycred.php:251
+msgid "Points"
+msgstr "Πόντοι"
+
+#: integrations/mycred.php:201
+msgid "Adding Product to Wishlist"
+msgstr "Προσθέστε προϊόντα στην λίστα Αγαπημένων"
+
+#: integrations/mycred.php:57
+msgid "Awards %_plural% for users adding products to their wishlist and purchased products from their wishlist."
+msgstr "Βραβεία % _plural% για χρήστες που προσθέτουν προϊόντα στη λίστα επιθυμιών τους και αγοράζουν προϊόντα από τη λίστα επιθυμιών τους."
+
+#: integrations/mycred.php:340
+msgid "Purchased From Wishlist"
+msgstr "Αγορασμένο από την Λίστα Επιθυμιών"
+
+#: admin/settings/general.class.php:274
+msgid "Permalinks Settings"
+msgstr "Ρυθμίσεις μόνιμων συνδέσμων"
+
+#: admin/settings/general.class.php:281
+msgid "This option should be enabled to avoid any issues with URL rewrites between other plugins and Wishlist"
+msgstr "Αυτή η επιλογή θα πρέπει να ενεργοποιηθεί για να αποφευχθούν τυχόν προβλήματα με τις διευθύνσεις URL ανακατεύθυνσης, μεταξύ άλλων πρόσθετων στοιχείων και του προσθέτου Αγαπημένων"
+
+#: admin/settings/general.class.php:280
+msgid "Force permalinks rewrite"
+msgstr "Επιβάλετε μόνιμους συνδέσμους ανακατεύθυνσης"
+
+#: views/wizard/step-social.php:62
+msgid "Show \"Clipboard\" Button"
+msgstr "Εμφάνιση κουμπιού \"Πρόχειρο\""
+
+#: public/tinvwl.class.php:533
+msgid "Copied!"
+msgstr "Αντιγράφηκε!"
+
+#: admin/settings/general.class.php:827
+msgid "Show \"Copy to clipboard\" Button"
+msgstr "Εμφάνιση κουμπιού \"Αντιγραφή στο Πρόχειρο\""
+
+#: admin/settings/general.class.php:821 views/wizard/step-social.php:53
+msgid "Show \"WhatsApp\" Button"
+msgstr "Εμφάνιση του κουμπιού \"WhatsApp\""
+
+#: public/cart.class.php:675
+msgid "Product &quot;%s&quot; could not be added to the cart because some requirements are not met."
+msgid_plural "Products: &quot;%s&quot; could not be added to the cart because some requirements are not met."
+msgstr[0] "Το προϊόν &quot;%s&quot;  δεν ήταν δυνατό να προστεθεί στο καλάθι γιατί δεν πληρούνται ορισμένες προϋποθέσεις."
+msgstr[1] "Τα προϊόντα &quot;%s&quot; δεν ήταν δυνατό να προστεθούν στο καλάθι γιατί δεν πληρούνται ορισμένες  προϋποθέσεις."
+
+#: admin/settings/general.class.php:957
+msgid "Do not show the \"0\" value in a counter if the wishlist is empty."
+msgstr "Όταν είναι άδεια η λίστα αγαπημένων να μην εμφανίζεται η τιμή \"0\""
+
+#: admin/settings/general.class.php:956
+msgid "Hide zero value"
+msgstr "Απόκρυψη μηδενικής τιμής"
+
+#: templates/ti-wishlist-user.php:85 templates/ti-wishlist.php:86
+msgid "Select for bulk action"
+msgstr "Επιλέξτε για μαζική ενέργεια"
+
+#: templates/ti-wishlist-user.php:31 templates/ti-wishlist.php:31
+msgid "Select all for bulk action"
+msgstr "Επιλογή όλων για μαζική ενέργεια"
+
+#: admin/settings/general.class.php:968
+msgid "Support Chat Settings"
+msgstr "Ρυθμίσεις συνομιλίας υποστήριξης"
+
+#: admin/settings/general.class.php:947
+msgid "Show number of products in counter"
+msgstr "Εμφάνιση πλήθους προϊόντων στον μετρητή"
+
+#: admin/settings/general.class.php:935
+msgid "Counter position (Menu item order)"
+msgstr "Θέση μετρητή αγαπημένων (Ταξινόμηση επιλογής μενού)"
+
+#: admin/settings/general.class.php:924
+msgid "Add counter to menu"
+msgstr "Προσθήκη μετρητή στο μενού"
+
+#: admin/settings/general.class.php:917
+msgid "\"Wishlist\" Counter Text"
+msgstr "Κείμενο μετρητή \"Αγαπημένων\""
+
+#: admin/settings/general.class.php:908
+msgid "Show \"Wishlist\" Counter Text"
+msgstr "Εμφάνιση κειμένου μετρητή \"Αγαπημένων\""
+
+#: admin/settings/general.class.php:897
+msgid "\"Wishlist\" Counter Icon Color"
+msgstr "Χρώμα εικονιδίου μετρητή \"Αγαπημένων\""
+
+#: admin/settings/general.class.php:865
+msgid "\"Wishlist\" Counter Icon"
+msgstr "Εικονίδιο μετρητή \"Αγαπημένων\""
+
+#: admin/settings/general.class.php:926
+msgid "You can add a wishlist products counter as an item to the selected menu."
+msgstr "Μπορείτε να προσθέσετε ενα μετρητή αγαπημένων σαν επιλογή στο επιλεγμένο μενού."
+
+#: admin/settings/general.class.php:975 views/wizard/step-support.php:26
+msgid "Enable support chat"
+msgstr "Ενεργοποίηση συνομιλίας υποστήριξης"
+
+#: admin/settings/general.class.php:936
+msgid "Allows you to add the wishlist counter as a menu item and set its position."
+msgstr "Σας επιτρέπει να προσθέσετε τον μετρητή αγαπημένων ως επιλογή μενού και να ορίσετε τη θέση του."
+
+#: admin/settings/general.class.php:466 admin/settings/general.class.php:619
+msgid "If enabled, applies animation for the button icon until product adding or removing processed. (Usable for servers with slow connection mostly.)"
+msgstr "Αν ενεργοποιηθεί, εφαρμόζεται κινούμενη εικόνα για το εικονίδιο του κουμπιού, μέχρι να προστεθεί, ή να αφαιρεθεί το προϊόν που έχει υποστεί επεξεργασία (Χρήσιμο για διακομιστές με αργή σύνδεση.)"
+
+#: admin/settings/general.class.php:465 admin/settings/general.class.php:618
+msgid "Show preloader"
+msgstr "Εμφάνιση preloader"
+
+#: admin/settings/general.class.php:398 admin/settings/general.class.php:553
+msgid "Button custom CSS class"
+msgstr "Κλάση CSS κουμπιού"
+
+#: admin/settings/general.class.php:456 admin/settings/general.class.php:609
+#: admin/settings/general.class.php:848 admin/settings/general.class.php:899
+msgid "Use font color"
+msgstr "Χρησιμοποιήστε το χρώμα της γραμματοσειράς"
+
+#: admin/settings/general.class.php:399 admin/settings/general.class.php:554
+msgid "You can add custom CSS classes to button markup separated by spaces. Most of themes using <code>button</code> class for this type of buttons."
+msgstr "Μπορείτε να προσθέσετε κλάσεις custom CSS  στο button markup χωρισμένα με κενά. Τα περισσότερα θέματα χρησιμοποιούν <code>button</code> κλάση για αυτά τα κουμπιά."
+
+#: views/admin/premium-features.php:25
+msgid "benefit from all the features"
+msgstr "κέρδος από όλες τις δυνατότητες"
+
+#: views/admin/premium-features.php:29
+msgid "check premium options"
+msgstr "ελέγξτε τις επιλογές premium"
+
+#: admin/tinvwl.class.php:131
+msgid "WooCommerce Wishlist Plugin is misconfigured!"
+msgstr "Το WooCommerce Wishlist Plugin δεν έχει ρυθμιστεί σωστά!"
+
+#: admin/tinvwl.class.php:135
+msgid "In a plugin General Settings section apply this page as a \"Wishlist\" page."
+msgstr "Στο πρόσθετο στην ενότητα Γενικές ρυθμίσεις, ορίστε αυτή τη σελίδα ως σελίδα \"Λίστα επιθυμιών\"."
+
+#: admin/tinvwl.class.php:134
+msgid "Add <code>[ti_wishlistsview]</code> shortcode into a page content."
+msgstr "Προσθέστε τον σύντομο κώδικα <code>[ti_wishlistsview]</code> στο περιεχόμενο της σελίδας σας"
+
+#: admin/tinvwl.class.php:133
+msgid "Create a New Page or open to edit a page where the Wishlist should be displayed."
+msgstr "Δημιουργήστε μια νέα σελίδα ή ανοίξτε μια υπάρχουσα προς επεξεργασία στην οποία θέλετε να εμφανιστεί η λίστα Αγαπημένων"
+
+#: admin/tinvwl.class.php:132
+msgid "Since the Setup Wizard was skipped, the Wishlist may function improperly."
+msgstr "Εφόσον ο Οδηγός εγκατάστασης ακυρώθηκε, το πρόσθετο Λίστα Επιθυμιών ενδέχεται να μην λειτουργήσει σωστά."
+
+#: admin/settings/style.class.php:551
+msgid "Icon Color"
+msgstr "Χρώμα Εικονιδίου"
+
+#: admin/settings/style.class.php:119
+msgid "Product Title link"
+msgstr "Σύνδεσμος τίτλου προϊόντος"
+
+#: admin/settings/style.class.php:557
+msgid "Icon Hover Color"
+msgstr "Χρώμα εικονιδίου (Hover)"
+
+#: admin/settings/style.class.php:532
+msgid "Share buttons"
+msgstr "Κουμπιά κοινοποίησης"
+
+#: admin/settings/style.class.php:337
+msgid "\"Apply Action\" button "
+msgstr "Κουμπί \"Εφαρμογή Ενέργειας\""
+
+#: admin/settings/style.class.php:257 admin/settings/style.class.php:326
+#: admin/settings/style.class.php:563
+msgid "Icon Size"
+msgstr "Μέγεθος Εικονιδίου"
+
+#: admin/settings/style.class.php:268
+msgid "\"Add to Wishlist\" product listing button"
+msgstr "Κουμπί \"Προσθήκη στη Λίστα Επιθυμιών\""
+
+#: admin/settings/general.class.php:184 admin/settings/general.class.php:363
+msgid "Redirect to the checkout page from Wishlist if added to cart"
+msgstr "Ανακατεύθυνση  στη σελίδα  checkout από τα αγαπημένα αν προστεθεί στο καλάθι"
+
+#: public/tinvwl.class.php:532
+msgid "No items or actions are selected."
+msgstr "Δεν έχει επιλεγεί κανένα προϊόν ή ενέργεια."
+
+#: integrations/yith-woocommerce-product-add-ons.php:72
+msgid "Base price"
+msgstr "Αρχική τιμή"
+
+#: admin/settings/general.class.php:472 admin/settings/general.class.php:625
+msgid "Show button text"
+msgstr "Εμφάνιση κειμένου κουμπιού"
+
+#: public/addtowishlist.class.php:237
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: admin/settings/general.class.php:137
+msgid "Redirect to Login Page"
+msgstr "Προώθηση στη σελίδα σύνδεσης"
+
+#: admin/settings/general.class.php:128
+msgid "Disallows guests to use Wishlist functionality until they sign in."
+msgstr "Απαγορεύει στους επισκέπτες να χρησιμοποιούν τη λειτουργία Λίστα Αγαπημένων μέχρι να συνδεθούν."
+
+#: admin/settings/general.class.php:127
+msgid "Require Login"
+msgstr "Απαιτείται σύνδεση"
+
+#: public/addtowishlist.class.php:235
+msgid "Please, login to add products to Wishlist"
+msgstr "Παρακαλούμε, συνδεθείτε για να το προσθέσετε στη Λίστα Επιθυμιών"
+
+#: admin/settings/general.class.php:138
+msgid "If enabled, guests will be redirected to a login page once clicking the \"Add to Wishlist\" button or \"Wishlist Products Counter\" link. Otherwise, a popup with login required notice will appear."
+msgstr "Εάν είναι ενεργοποιημένη, οι επισκέπτες θα μεταφερθούν σε μια σελίδα σύνδεσης μόλις κάνετε κλικ στο κουμπί \"Προσθήκη στη Λίστα Επιθυμιών\" ή στο \"Λίστα επιθυμιών προϊόντων\". Διαφορετικά, θα εμφανιστεί ένα αναδυόμενο παράθυρο με ειδοποίηση που ενημερώνει ότι απαιτείται σύνδεση."
+
+#: views/wizard/step-page.php:20
+msgid "Choose from existing pages or leave this field empty and the Wishlist page will be created automatically:"
+msgstr "Επιλέξτε από τις υπάρχουσες σελίδες ή αφήστε αυτό το πεδίο κενό και η σελίδα Αγαπημένων προϊόντων θα δημιουργηθεί αυτόματα:"
+
+#: admin/settings/general.class.php:815 views/wizard/step-social.php:44
+msgid "Show \"Pinterest\" Button"
+msgstr "Προβολή κουμπιού \"Pinterest\" "
+
+#: admin/settings/general.class.php:809 views/wizard/step-social.php:35
+msgid "Show \"Twitter\" Button"
+msgstr "Προβολή κουμπιού \"Twitter\" "
+
+#: admin/settings/general.class.php:803 views/wizard/step-social.php:26
+msgid "Show \"Facebook\" Button"
+msgstr "Προβολή κουμπιού \"Facebook\" "
+
+#: views/wizard/intro.php:21
+msgid "Thank you for choosing the Wishlist plugin by TemplateInvaders to enhance your WooCommerce store!"
+msgstr "Σας ευχαριστούμε που επιλέξατε το πρόσθετο Wishlist από το TemplateInvaders για να επαυξήσετε το κατάστημα WooCommerce!"
+
+#: admin/tinvwl.class.php:301 views/admin/wishlists.php:159
+#: views/wizard/finish.php:33
+msgid "Upgrade to Premium"
+msgstr "Αναβάθμιση στο Premium"
+
+#: admin/settings/general.class.php:258
+msgid "This notification will be shown if a user will try to add a product that is already on the wishlist. "
+msgstr "Αυτή η ειδοποίηση θα εμφανιστεί αν ο χρήστης προσπαθήσει να προσθέσει προϊόν που είναι ήδη στην λίστα επιθυμιών."
+
+#: admin/basestyle.helper.php:119 admin/settings/general.class.php:997
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: admin/settings/general.class.php:545
+msgid "Above Thumbnail"
+msgstr "Πάνω από την μικρογραφία"
+
+#: admin/tinvwl.class.php:223
+msgid "Are you sure you want to reset the settings?"
+msgstr "Είστε σίγουροι οτι θέλετε να ακυρώσετε όλες τις αλλαγές στις ρυθμίσεις;"
+
+#: public/widget/wishlistcounter.class.php:22
+msgid "TI Wishlist Products Counter"
+msgstr "TI Wishlist Μετρητής προϊόντων"
+
+#. translators: %s: product name
+#: public/wishlist/ajax.class.php:373 public/wishlist/ajax.class.php:454
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;"
+
+#: integrations/yith-woocommerce-product-bundles.php:100
+msgid "Out of stock"
+msgstr "Χωρίς απόθεμα"
+
+#: integrations/gift-cards-for-woocommerce.php:128
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: integrations/gift-cards-for-woocommerce.php:125
+msgid "To Email"
+msgstr "Σε Email"
+
+#: integrations/gift-cards-for-woocommerce.php:122
+msgid "To"
+msgstr "Στο"
+
+#: integrations/gift-cards-for-woocommerce.php:119
+msgid "Note"
+msgstr "Σημείωση"
+
+#: integrations/gift-cards-for-woocommerce.php:131
+msgid "Reload existing Gift Card"
+msgstr "Επαναφόρτωση Δωροκάρτας"
+
+#: admin/settings/general.class.php:190
+msgid "Remove product from Wishlist on the second click"
+msgstr "Αφαίρεση προϊόντος από την Λίστα Επιθυμιών στο δεύτερο κλικ"
+
+#: views/wizard/step-button.php:57
+msgid "Show in Product listing"
+msgstr "Προβολή στην λίστα προϊόντων"
+
+#: views/wizard/step-button.php:66
+msgid "\"Add to Wishlist\" Text in Product listing"
+msgstr "\"Προσθήκη στη Λίστα Επιθυμιών\" Κείμενο στην λίστα προϊόντων"
+
+#: views/wizard/step-button.php:52
+msgid "You can also show the “Add to Wishlist” button on Product listings. More options in %s."
+msgstr "Μπορείτε επίσης να εμφανίσετε το κουμπί \"Προσθήκη στη Λίστα Επιθυμιών\" στον κατάλογο προϊόντων. Περισσότερες επιλογές στο %s."
+
+#: public/widget/wishlistcounter.class.php:37
+msgid "Counter Text"
+msgstr "Κείμενο μετρητή"
+
+#: public/widget/wishlistcounter.class.php:32
+msgid "Show counter text"
+msgstr "Εμφάνιση κειμένου μετρητή"
+
+#: public/widget/wishlistcounter.class.php:27
+msgid "Show counter icon"
+msgstr "Εμφάνιση εικονιδίου μετρητή"
+
+#: public/widget/wishlistcounter.class.php:20
+msgid "Displays the number of products in the wishlist on your site."
+msgstr "Εμφανίζει τον αριθμό των προϊόντων στη λίστα αγαπημένων στον ιστότοπό σας."
+
+#: admin/settings/general.class.php:859
+msgid "Add this shortcode <code>[ti_wishlist_products_counter]</code> anywhere into a page content to show Wishlist Counter.<br/><br/>It can be also added as a widget <code>Wishlist Products Counter</code> under the <a href=\"%s\">Appearance -> Widgets</a> section."
+msgstr "Προσθέστε αυτό τον σύντομο κώδικα <code>[ti_wishlist_products_counter]</code> οπουδήποτε μέσα στο περιεχόμενο μιας σελίδας, για να εμφανιστεί η Λίστα επιλογών. <br/><br/> Μπορεί επίσης να προστεθεί ως widget <code>Wishlist Counter</code> στην ενότητα <a href=\"%s\"> Appearance -> Widgets </a>."
+
+#: admin/settings/general.class.php:918
+msgid "Wishlist - "
+msgstr "Λίστα Επιθυμιών -"
+
+#: integrations/theme-flatsome.php:169
+msgid "Wishlist Icon"
+msgstr "Εικονίδιο \"Wishlist\""
+
+#: admin/settings/general.class.php:858
+msgid "Wishlist Product Counter"
+msgstr "Μετρητής προϊόντων Αγαπημένων"
+
+#: admin/settings/general.class.php:525
+msgid "Show in Product Listing"
+msgstr "Εμφάνιση στη λίστα προϊόντων"
+
+#: admin/settings/general.class.php:548
+msgid "Note: if \"Custom position with code\" option is applied, the \"Add to Wishlist\" button should be added into template using <code>do_shortcode()</code> function like this:<br /><code>do_shortcode(\"[ti_wishlists_addtowishlist loop=yes]\")</code>"
+msgstr "Σημείωση: Εάν εφαρμοστεί η επιλογή \"Προσαρμοσμένη θέση με κωδικό\", θα πρέπει να προστεθεί στο πρότυπο το κουμπί \"Προσθήκη στα αγαπημένα\" χρησιμοποιώντας τη λειτουργία <code>do_shortcode()</code> όπως αυτή:<br /><code>do_shortcode(\"[ti_wishlists_addtowishlist loop=yes]\")</code>"
+
+#: admin/settings/general.class.php:518
+msgid "Product listing Button Settings"
+msgstr "Λίστα προϊόντων ρυθμίσεις κουμπιού"
+
+#: admin/settings/general.class.php:224
+msgid "This option allows to show/hide a popup with successful or error notices after adding or removing products from a Wishlist."
+msgstr "Αυτή η επιλογή επιτρέπει την εμφάνιση / απόκρυψη αναδυόμενων παραθύρων με επιτυχημένες ειδοποιήσεις ή σφάλματα μετά την προσθήκη ή την αφαίρεση προϊόντων από μια λίστα επιθυμιών."
+
+#: admin/settings/general.class.php:223
+msgid "Show successful notice in popup"
+msgstr "Εμφάνιση επιτυχημένης ειδοποίησης στο αναδυόμενο παράθυρο"
+
+#: admin/settings/general.class.php:510 admin/settings/general.class.php:663
+msgid "\"Remove from Wishlist\" Button Text"
+msgstr "Διαγραφή"
+
+#: admin/settings/general.class.php:519
+msgid "These are separate settings for the \"Add to Wishlist\" button on a product listing (Shop page, categories, etc.). You can also adjust button and text colors, size, etc. in a <code>TI Wishlist > Style Options.</code>"
+msgstr "Αυτές είναι ξεχωριστές ρυθμίσεις για το κουμπί \"Προσθήκη στη Λίστα Επιθυμιών\" στη λίστα προϊόντων (σελίδα καταστήματος, κατηγορίες κλπ.). Μπορείτε επίσης να προσαρμόσετε τα χρώματα, το μέγεθος κλπ. με το <code>TI Wishlist > Style Options.</code>"
+
+#: admin/settings/general.class.php:266
+msgid "This notification will be shown once the product is removed from Wishlist on a single or catalog page."
+msgstr "Αυτή η ειδοποίηση θα εμφανίζεται μόλις αφαιρεθεί το προϊόν από τη Λίστα Επιθυμιών σας σε μία σελίδα ή σε μια σελίδα καταλόγου."
+
+#: admin/settings/general.class.php:265
+msgid "\"Product removed from Wishlist\" Text"
+msgstr "\"Προϊόν που καταργήθηκε από τη Λίστα Επιθυμιών\" Κείμενο"
+
+#: admin/settings/general.class.php:177 admin/settings/general.class.php:370
+msgid "Remove by anyone"
+msgstr "Αφαίρεση από καθένα"
+
+#: admin/tinvwl.class.php:340
+msgid "<code>%1$s</code> version <strong style=\"color:red\">%2$s</strong> is out of date. The core version is <strong style=\"color:red\">%3$s</strong>"
+msgstr "<code>%1$s</code> έκδοση <strong style=\"color:red\">%2$s</strong> εκτός ημερομηνίας. Η έκδοση πυρήνα είναι<strong style=\"color:red\">%3$s</strong>"
+
+#: views/admin/templates-status.php:27 views/admin/templates-status.php:34
+msgid "Overrides"
+msgstr "Αντικαθιστά"
+
+#: views/admin/templates-status.php:18
+msgid "This section shows the files that are overriding the default TI WooCommerce Wishlist templates."
+msgstr "Αυτή η ενότητα εμφανίζει τα αρχεία που αντικαθιστούν το προεπιλεγμένο πρότυπο του TI WooCommerce Wishlist "
+
+#: admin/tinvwl.class.php:366
+msgid "<strong>Your theme (%1$s) contains outdated copies of some WooCommerce Wishlist Plugin template files.</strong><br> These files may need updating to ensure they are compatible with the current version of WooCommerce Wishlist Plugin.<br> You can see which files are affected from the <a href=\"%2$s\">system status page</a>.<br> If in doubt, check with the author of the theme."
+msgstr "<strong>Το θέμα σας (%1$s) περιέχει ξεπερασμένα αντίγραφα ορισμένων αρχείων προτύπου του προσθέτου WooCommerce Wishlist.</strong><br> Αυτά τα αρχεία ίσως χρειαστούν ενημέρωση για να εξασφαλίσουν ότι είναι συμβατά με την τρέχουσα έκδοση του προσθέτου WooCommerce Wishlist.<br> Μπορείτε να δείτε ποια αρχεία επηρεάζονται από τη <a href=\"%2$s\"> σελίδα κατάστασης συστήματος</a>.<br> Εάν έχετε αμφιβολίες, επικοινωνήστε με τον προγραμματιστή του θέματος."
+
+#: views/wizard/finish.php:18
+msgid "WooCommerce Wishlist Plugin Settings"
+msgstr "WooCommerce Wishlist ρυθμίσεις προσθέτου"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ti-woocommerce-wishlist/"
+msgstr "https://wordpress.org/plugins/ti-woocommerce-wishlist/"
+
+#: views/admin/templates-status.php:17 views/admin/templates-status.php:18
+msgid "TI WooCommerce Wishlist Templates"
+msgstr "TI WooCommerce Wishlist Πρότυπα"
+
+#: views/admin/premium-features.php:24
+msgid "Premium version"
+msgstr "Πληρωμένη έκδοση"
+
+#: public/wishlist/social.class.php:135
+msgid "Email"
+msgstr "Email"
+
+#: includes/wizard.class.php:560 views/wizard/step-support.php:18
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: admin/tinvwl.class.php:138
+msgid " or "
+msgstr "ή"
+
+#: admin/tinvwl.class.php:122
+msgid "Skip Setup"
+msgstr "Παράλειψη ρύθμισης"
+
+#: admin/tinvwl.class.php:120 admin/tinvwl.class.php:140
+msgid "Run the Setup Wizard"
+msgstr "Εκτελέστε τον Οδηγό εγκατάστασης"
+
+#: admin/tinvwl.class.php:137
+msgid "Please apply the Wishlist page"
+msgstr "Παρακαλούμε εφαρμόστε τη σελίδα Wishlist"
+
+#: admin/tinvwl.class.php:118
+msgid "<strong>Welcome to WooCommerce Wishlist Plugin</strong> – You‘re almost ready to start :)"
+msgstr "<strong> Καλώς ήρθατε στο πρόσθετο Wishlist WooCommerce <strong> - Είστε σχεδόν έτοιμοι να ξεκινήσετε :)"
+
+#: public/tinvwl.class.php:531
+msgid "Please select some product options before adding this product to your wishlist."
+msgstr "Παρακαλώ επιλέξτε ορισμένες επιλογές προϊόντος πριν προσθέσετε αυτό το προϊόν στη λίστα επιθυμιών σας."
+
+#: includes/tinvwl.class.php:165
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/tinvwl.class.php:166
+msgid "Premium Version"
+msgstr "Premium Version"
+
+#: admin/settings/general.class.php:163
+msgid "Show Link to Wishlist in my account"
+msgstr "Εμφάνιση συνδέσμου στην Λίστα Επιθυμιών στο λογαριασμό μου"
+
+#: views/wizard/intro.php:24
+msgid "let’s go"
+msgstr "πάμε"
+
+#: views/wizard/step-button.php:27
+msgid " and "
+msgstr "και"
+
+#: views/wizard/intro.php:27
+msgid "Not Right Now"
+msgstr "Όχι τώρα"
+
+#: views/wizard/intro.php:16
+msgid "Welcome!"
+msgstr "Καλώς ήλθατε!"
+
+#: views/wizard/intro.php:15
+msgid "Setup Wizard"
+msgstr "Οδηγός ρυθμίσεων"
+
+#: views/wizard/header.php:19
+msgid "TI Wishlist &rsaquo; %s"
+msgstr "TI Wishlist &rsaquo; %s"
+
+#: views/wizard/footer.php:18
+msgid "Return to the WordPress Dashboard"
+msgstr "Επιστροφή στην διαχείριση του WordPress"
+
+#: views/wizard/finish.php:25
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: views/wizard/finish.php:28
+msgid "Wishlist Settings"
+msgstr "Ρυθμίσεις αγαπημένων"
+
+#: integrations/woo-product-bundle.php:113
+#: integrations/woocommerce-composite-products.php:142
+#: integrations/woocommerce-mix-and-match-products.php:112
+#: integrations/woocommerce-product-bundles.php:134
+#: integrations/yith-woocommerce-product-bundles.php:165
+#: templates/ti-wishlist-user.php:144 templates/ti-wishlist.php:152
+msgid "In stock"
+msgstr "σε απόθεμα"
+
+#: templates/ti-wishlist-user.php:46 templates/ti-wishlist.php:47
+msgid "Stock Status"
+msgstr "Κατάσταση αποθέματος"
+
+#: templates/ti-wishlist-user.php:43 templates/ti-wishlist.php:44
+msgid "Date Added"
+msgstr "Ημερομηνία προσθήκης"
+
+#: templates/ti-wishlist-user.php:40 templates/ti-wishlist.php:41
+msgid "Unit Price"
+msgstr "Τιμή μονάδας"
+
+#: integrations/vad-product-design.php:73 templates/ti-wishlist-user.php:37
+#: templates/ti-wishlist.php:38
+msgid "Product"
+msgstr "Προϊόν"
+
+#: templates/ti-wishlist-user.php:36 templates/ti-wishlist.php:37
+msgid "Product Name"
+msgstr "Όνομα προϊοντος"
+
+#: templates/ti-wishlist-null.php:17
+msgid "Wishlist is not found!"
+msgstr "Τα αγαπημένα δεν βρέθηκαν"
+
+#: templates/ti-wishlist-empty.php:33 templates/ti-wishlist-null.php:24
+msgid "Return To Shop"
+msgstr "Επιστροφή στο κατάστημα"
+
+#: templates/ti-addedtowishlist-dialogbox.php:36
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: public/wishlist/view.class.php:598
+msgid "Next Page"
+msgstr "Επόμενη σελίδα"
+
+#: views/wizard/finish.php:15
+msgid "Congratulations"
+msgstr "Συγχαρητήρια"
+
+#: views/null.php:15
+msgid "Error 404"
+msgstr "Σφάλμα 404"
+
+#: views/wizard/finish.php:20
+msgid "Online Documentation"
+msgstr "Τεκμηρίωση στο διαδίκτυο"
+
+#: views/wizard/step-button.php:16
+msgid "Button options"
+msgstr "Επιλογές κουμπιών"
+
+#. Author of the plugin
+msgid "TemplateInvaders"
+msgstr "TemplateInvaders"
+
+#: views/wizard/step-button.php:79 views/wizard/step-page.php:62
+#: views/wizard/step-processing.php:40 views/wizard/step-social.php:86
+#: views/wizard/step-support.php:42
+msgid "continue"
+msgstr "συνέχεια"
+
+#. Author URI of the plugin
+msgid "https://templateinvaders.com/"
+msgstr "https://templateinvaders.com/"
+
+#: views/wizard/step-button.php:78 views/wizard/step-page.php:61
+#: views/wizard/step-processing.php:39 views/wizard/step-social.php:85
+#: views/wizard/step-support.php:41
+msgid "Skip this step"
+msgstr "Παραλείψτε αυτό το βήμα"
+
+#: admin/settings/general.class.php:640 views/wizard/step-button.php:42
+msgid "\"Add to Wishlist\" Text"
+msgstr "\"Add to Wishlist\" Κείμενο"
+
+#: views/wizard/step-processing.php:16
+msgid "Processing Options"
+msgstr "Επιλογές διαδικασίας"
+
+#: integrations/mycred.php:341
+msgid "Added To Wishlist"
+msgstr "Προσθήκη στη λίστα επιθυμιών"
+
+#: views/null.php:19
+msgid "Template \"%s\" not found!"
+msgstr "Το πρότυπο \"%s\" δεν βρέθηκε!"
+
+#: templates/ti-wishlist-empty.php:25
+msgid "Wishlist is currently empty."
+msgstr "Η Λίστα Αγαπημένων είναι προς το παρόν κενή"
+
+#: templates/ti-wishlist-empty.php:23
+msgid "Your Wishlist is currently empty."
+msgstr "Η Λίστα Αγαπημένων σας είναι αυτή τη στιγμή κενή."
+
+#: integrations/mycred.php:56
+msgid "WooCommerce Wishlist"
+msgstr "WooCommerce Λίστα Επιθυμιών"
+
+#: views/wizard/step-processing.php:24
+msgid "How products should be removed from Wishlist?"
+msgstr "Πώς να αφαιρούνται τα προϊόντα από τη Λίστα Επιθυμιών;"
+
+#: views/wizard/step-button.php:21
+msgid "Choose where to place the “Add to Wishlist” button on the product page: before or after the “Add to Cart” button."
+msgstr "Επιλέξτε που να τοποθετήσετε το κουμπί \"Προσθήκη στη Λίστα Επιθυμιών\" στη σελίδα προϊόντων: πριν ή μετά το κουμπί 'Προσθήκη στο Καλάθι\"."
+
+#: views/wizard/finish.php:16
+msgid "Your Wishlist is ready!"
+msgstr "Η Λίστα επιθυμιών σας είναι έτοιμη!"
+
+#: views/wizard/step-button.php:25
+msgid "TI  Wishlists > Style Options"
+msgstr "TI  Wishlists > Επιλογές στυλ"
+
+#: views/wizard/finish.php:20
+msgid "Details about WooCommerce Wishlist Plugin options can be found in our %s."
+msgstr "Λεπτομέρειες για τις επιλογές WooCommerce Wishlist Plugin μπορούν να βρεθούν στο %s."
+
+#: views/wizard/step-button.php:27
+msgid "And set button text. You can add an icon, change button appearance, and other settings in %s."
+msgstr "Και ορίστε κείμενο κουμπιού. Μπορείτε να προσθέσετε ένα εικονίδιο, να αλλάξετε την εμφάνιση του κουμπιού και άλλες ρυθμίσεις στο %s."
+
+#: views/wizard/intro.php:22
+msgid "This quick setup wizard will help you configure the basic settings."
+msgstr "Αυτός ο γρήγορος οδηγός εγκατάστασης θα σας βοηθήσει να κάνετε τις βασικές ρυθμίσεις."
+
+#. Description of the plugin
+msgid "Wishlist functionality for your WooCommerce store."
+msgstr "Λειτουργικότητα λίστας επιθυμιών για το κατάστημα WooCommerce."
+
+#: public/wishlist/view.class.php:571
+msgid "Previous Page"
+msgstr "Προηγούμενη σελίδα"
+
+#: admin/basestyle.helper.php:125 admin/settings/general.class.php:1003
+#: admin/settings/integrations.class.php:108
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: admin/basestyle.helper.php:113 admin/settings/general.class.php:991
+#: admin/settings/integrations.class.php:102
+msgid "Save Settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: admin/settings/general.class.php:119 admin/tinvwl.class.php:426
+msgid "Wishlist Page"
+msgstr "Σελίδα Αγαπημένων"
+
+#: public/wishlist/buttons.class.php:215
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: public/wishlist/buttons.class.php:59
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: public/wishlist/buttons.class.php:224 templates/ti-wishlist.php:94
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: public/wishlist/buttons.class.php:59
+msgid "Apply %s"
+msgstr "Εφαρμογή %s"
+
+#: public/tinvwl.class.php:527
+msgid "Create New"
+msgstr "Δημιουργία νέου"
+
+#: public/wishlist/view.class.php:394
+msgid "%1$s by %2$s"
+msgstr "%1$s από %2$s"
+
+#: includes/wizard.class.php:592
+msgid "Ready!"
+msgstr "Έτοιμος!"
+
+#: includes/wizard.class.php:513 views/wizard/step-social.php:18
+msgid "Share"
+msgstr "Διαμοιρασμός"
+
+#: includes/wizard.class.php:487
+msgid "Manual"
+msgstr "Χειροκίνητα"
+
+#: includes/wizard.class.php:486
+msgid "Automatically"
+msgstr "Αυτόματα"
+
+#: admin/settings/general.class.php:849
+msgid "Dark"
+msgstr "Σκούρο"
+
+#: includes/wizard.class.php:322
+msgid "Create new Page"
+msgstr "Δημιουργία νέας Σελίδας"
+
+#: includes/wizard.class.php:321
+msgid "Create Automatically"
+msgstr "Αυτόματη δημιουργία"
+
+#: includes/wizard.class.php:475
+msgid "Processing"
+msgstr "Σε επεξεργασία"
+
+#: includes/wizard.class.php:308 views/wizard/step-page.php:16
+msgid "Page Setup"
+msgstr "Ρύθμιση σελίδας"
+
+#: includes/view.helper.php:183
+msgid "Attention!"
+msgstr "Προσοχή!"
+
+#: admin/settings/style.class.php:508
+msgid "Price Font"
+msgstr "Γραμματοσειρά τιμής"
+
+#: admin/settings/style.class.php:502
+msgid "Price Color"
+msgstr "Χρώμα τιμής"
+
+#: admin/settings/style.class.php:437
+msgid "table"
+msgstr "πίνακας"
+
+#: admin/settings/style.class.php:87
+msgid "text"
+msgstr "κείμενο"
+
+#: admin/settings/style.class.php:94
+msgid "Title Color"
+msgstr "Χρώμα τίτλου"
+
+#: admin/settings/style.class.php:55
+msgid "Style Options"
+msgstr "Επιλογές στυλ"
+
+#: admin/settings/general.class.php:414 admin/settings/general.class.php:568
+#: admin/settings/general.class.php:870
+msgid "Heart+"
+msgstr "Καρδιά+"
+
+#: admin/settings/general.class.php:457 admin/settings/general.class.php:610
+#: admin/settings/general.class.php:900
+msgid "Black"
+msgstr "Μαύρο"
+
+#: admin/settings/general.class.php:432 admin/settings/general.class.php:445
+#: admin/settings/general.class.php:585 admin/settings/general.class.php:598
+#: admin/settings/general.class.php:888
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+#: includes/wizard.class.php:428
+msgid "Button"
+msgstr "Πλήκτρο"
+
+#: admin/settings/general.class.php:329 views/wizard/step-page.php:41
+msgid "My Wishlist"
+msgstr "Τα αγαπημένα μου"
+
+#: admin/settings/general.class.php:68 admin/settings/general.class.php:106
+msgid "General Settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: admin/basestyle.helper.php:56
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#: admin/settings/general.class.php:322 admin/settings/general.class.php:339
+msgid "Coming soon"
+msgstr "Έρχεται σύντομα"
+
+#: admin/settings/general.class.php:81 admin/settings/general.class.php:412
+#: admin/settings/general.class.php:566 admin/settings/general.class.php:868
+msgid "None"
+msgstr "Κανένα"
+
+#: admin/settings/general.class.php:413 admin/settings/general.class.php:567
+#: admin/settings/general.class.php:869
+msgid "Heart"
+msgstr "Καρδιά"
+
+#: admin/settings/general.class.php:356
+msgid "Add to Cart"
+msgstr "Προσθήκη στο καλάθι"
+
+#: admin/settings/general.class.php:346
+msgid "Automatic removal"
+msgstr "Αυτόματη αφαίρεση"
+
+#: admin/settings/general.class.php:684
+msgid "\"Add to Cart\" Text"
+msgstr "Κείμνο \"Προσθήκη στο Καλάθι\""
+
+#: admin/settings/general.class.php:458 admin/settings/general.class.php:611
+#: admin/settings/general.class.php:850 admin/settings/general.class.php:901
+msgid "White"
+msgstr "Λευκό"
+
+#: admin/settings/style.class.php:141
+msgid "No"
+msgstr "Όχι"
+
+#: admin/settings/style.class.php:140
+msgid "Yes"
+msgstr "Ναι"
+
+#: admin/settings/style.class.php:155
+msgid "fields"
+msgstr "πεδία"
+
+#: admin/settings/style.class.php:126
+msgid "Color"
+msgstr "Χρώμα"
+
+#: admin/settings/style.class.php:112 admin/settings/style.class.php:148
+#: admin/settings/style.class.php:186 admin/settings/style.class.php:243
+#: admin/settings/style.class.php:312 admin/settings/style.class.php:368
+#: admin/settings/style.class.php:418
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+#: includes/view.helper.php:199
+msgid "Errors(%s)"
+msgstr "Σφάλματα(%s)"
+
+#: includes/view.helper.php:356
+msgid "read documentation"
+msgstr "διαβάστε τεκμηρίωση"
+
+#: admin/basestyle.helper.php:72
+msgid "Template Options"
+msgstr "Επιλογές Προτύπου"
+
+#: includes/wizard.class.php:290
+msgid "Introduction"
+msgstr "Εισαγωγή"
+
+#: public/wishlist/ajax.class.php:158 public/wishlist/ajax.class.php:203
+#: public/wishlist/ajax.class.php:278
+msgid "&ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;"
+
+#: admin/basestyle.helper.php:63
+msgid "Use Theme style"
+msgstr "Χρησιμοποιήστε το στυλ του Θέματος σας"
+
+#: admin/basestyle.helper.php:80 admin/basestyle.helper.php:87
+msgid "Template Custom CSS"
+msgstr "Πρότυπο με προσαρμοσμένο CSS"
+
+#: admin/settings/general.class.php:107
+msgid "Wishlist page needs to be selected so the plugin knows where it is. This page should be created upon installation of the plugin, if not you will need to create it manually."
+msgstr "Η σελίδα Αγαπημένων πρέπει να επιλεγεί έτσι ώστε το πρόσθετο να γνωρίζει πού βρίσκεται. Αυτή η σελίδα θα πρέπει να δημιουργηθεί μετά την εγκατάσταση του πρόσθετου, αν δεν δημιουργηθεί θα πρέπει να την δημιουργήσετε με το χέρι."
+
+#: includes/view.helper.php:215
+msgid "Useful Tip"
+msgstr "Χρήσιμο Tip"
+
+#: includes/pluginextend.helper.php:572 includes/pluginextend.helper.php:641
+msgid "%1$s %3$s is required. Please activate it before activating this plugin."
+msgstr "Απαιτείται %1$s %3$s. Ενεργοποιήστε τo πριν ενεργοποιήσετε αυτό το πρόσθετο."
+
+#: includes/pluginextend.helper.php:568 includes/pluginextend.helper.php:637
+msgid "%1$s is conflicted with %2$s %3$s. Please disable it before activating this plugin."
+msgstr "Το %1$s έρχεται σε διένεξη με το %2$s %3$s. Απενεργοποιήστε το πριν ενεργοποιήσετε αυτό το πρόσθετο."
+
+#: includes/pluginextend.helper.php:564 includes/pluginextend.helper.php:633
+msgid "%2$s %3$s is required. Please activate it before activating this plugin."
+msgstr "Απαιτείται %2$s %3$s. Ενεργοποιήστε τo πριν ενεργοποιήσετε αυτό το πρόσθετο."
+
+#: includes/pluginextend.helper.php:560 includes/pluginextend.helper.php:629
+msgid "%2$s %3$s is required. Please downgrade it before activating this plugin."
+msgstr "Απαιτείται %2$s %3$s. Κάντε υποβάθμιση πριν ενεργοποιήσετε αυτό το πρόσθετο."
+
+#: includes/pluginextend.helper.php:555 includes/pluginextend.helper.php:624
+msgid "%2$s %3$s is required. Please update it before activating this plugin."
+msgstr "Απαιτείται %2$s %3$s. Αναβαθμίστε τo πριν ενεργοποιήσετε αυτό το πρόσθετο."
+
+#: includes/pluginextend.helper.php:546
+msgid "%1$s is confilcted with %2$s %3$s. Deactivating %1$s."
+msgstr "Το %1$s έρχεται σε διένεξη με %2$s %3$s. Απενεργοποιήστε το %1$s."
+
+#: admin/settings/style.class.php:568
+msgid "popups"
+msgstr "Αναδυόμενα παράθυρα"
+
+#: admin/settings/style.class.php:522
+msgid "Special Price Color"
+msgstr "Χρώμα Ειδικής Τιμής"
+
+#: admin/settings/style.class.php:516
+msgid "Price Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Τιμής"
+
+#: admin/settings/style.class.php:496 admin/settings/style.class.php:595
+msgid "Content Text Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Κειμένου Περιεχομένου"
+
+#: admin/settings/style.class.php:488 admin/settings/style.class.php:587
+msgid "Content Text Font"
+msgstr "Γραμματοσειρά Κειμένου Περιεχομένου"
+
+#: admin/settings/style.class.php:476
+msgid "Table Head Font Size"
+msgstr "Μέγεθος Γραμματοσειράς Κεφαλίδας Πίνακα"
+
+#: admin/settings/style.class.php:468
+msgid "Table Head Font"
+msgstr "Γραμματοσειρά Κεφαλίδας Πίνακα"
+
+#: admin/settings/style.class.php:462
+msgid "Table Head Text Color"
+msgstr "Χρώμα Κειμένου Κεφαλίδας Πίνακα"
+
+#: admin/settings/style.class.php:456
+msgid "Table Head Background Color"
+msgstr "Χρώμα Φόντου Κεφαλίδας Πίνακα"
+
+#: admin/settings/style.class.php:387
+msgid "add to cart button"
+msgstr "κουμπί προσθήκη στο καλάθι"
+
+#: admin/settings/style.class.php:218 admin/settings/style.class.php:287
+msgid "Button Text Color"
+msgstr "Χρώμα Κειμένου Κουμπιού"
+
+#: admin/settings/style.class.php:194
+msgid "Select Font Size"
+msgstr "Επιλέξτε Μέγεθος Γραμματοσειράς"
+
+#: admin/settings/general.class.php:771
+msgid "\"Add All to Cart\" Button Text"
+msgstr "Κείμενο Κουμπιού \"Προσθήκη Όλων στο Καλάθι\""
+
+#: admin/settings/general.class.php:764
+msgid "Show \"Add All to Cart\" button"
+msgstr "Δείξε κουμπί \"Προσθήκη Όλων στο Καλάθι\""
+
+#: admin/settings/general.class.php:753
+msgid "\"Add Selected to Cart\" Button Text"
+msgstr "Κείμενο Κουμπιού \"Προσθήκη Επιλεγμένων στο Καλάθι\""
+
+#: admin/settings/general.class.php:746
+msgid "Show \"Add Selected to Cart\" button"
+msgstr "Δείξε κουμπί \"Προσθήκη Επιλεγμένων στο Καλάθι\""
+
+#: admin/settings/general.class.php:711
+msgid "Following options will help user to manage and add products to cart from wishlist table in bulk."
+msgstr "Οι ακόλουθες επιλογές θα βοηθήσουν το χρήστη να διαχειρίζεται και να προσθέτει τα προϊόντα στο καλάθι από τον πίνακα επιθυμιών μαζικά."
+
+#: admin/settings/general.class.php:710
+msgid "Wishlist Table Settings"
+msgstr "Ρυθμίσεις Πίνακα Λίστας Επιθυμιών"
+
+#: admin/settings/general.class.php:703
+msgid "Show Date of addition"
+msgstr "Δείξε Ημερομηνία Προσθήκης"
+
+#: admin/settings/general.class.php:697
+msgid "Show Stock status"
+msgstr "Δείξε διαθεσιμότητα Αποθεμάτων"
+
+#: admin/settings/general.class.php:487
+msgid "\"Add to Wishlist\" button Text"
+msgstr "Κείμενο κουμπιού \"Προσθήκη στη Λίστα Επιθυμιών\""
+
+#: admin/settings/general.class.php:454 admin/settings/general.class.php:607
+msgid "\"Add to Wishlist\" Icon Color"
+msgstr "Χρώμα Εικονιδίου \"Προσθήκη στη Λίστα Επιθυμιών\""
+
+#: admin/settings/general.class.php:415 admin/settings/general.class.php:569
+#: admin/settings/general.class.php:871
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+#: admin/settings/general.class.php:409 admin/settings/general.class.php:873
+msgid "You can choose from our predefined icons or upload your custom icon. Custom icon size is limited to 16x16 px."
+msgstr "Μπορείτε να επιλέξετε από τα προκαθορισμένα εικονίδια ή να ανεβάσετε το δικό σας προσαρμοσμένο εικονίδιο. Το μέγεθος του προσαρμοσμένου εικονιδίου περιορίζεται σε 16x16 px."
+
+#: admin/settings/general.class.php:408 admin/settings/general.class.php:563
+msgid "\"Add to Wishlist\" Icon"
+msgstr "Εικονίδιο \"Προσθήκη στη Λίστα Επιθυμιών\""
+
+#: admin/settings/general.class.php:392 admin/settings/general.class.php:546
+#: includes/wizard.class.php:442
+msgid "Custom position with code"
+msgstr "Προσαρμοσμένη θέση με κώδικα"
+
+#: admin/settings/general.class.php:389 admin/settings/general.class.php:544
+#: includes/wizard.class.php:441
+msgid "Before \"Add to Cart\" button"
+msgstr "Πριν από το κουμπί \"Προσθήκη στο Καλάθι\""
+
+#: admin/settings/general.class.php:388 admin/settings/general.class.php:543
+#: includes/wizard.class.php:440
+msgid "After \"Add to Cart\" button"
+msgstr "Μετά από το κουμπί \"Προσθήκη στο Καλάθι\""
+
+#: admin/settings/general.class.php:385
+msgid "Add this shortcode <code>[ti_wishlists_addtowishlist]</code> anywhere on product page, if you have chosen custom position for product button. You will have to do this for each product."
+msgstr "Προσθέστε αυτό το shortcode <code> [ti_wishlists_addtowishlist] </code> οπουδήποτε στη σελίδα προϊόντος, αν έχετε επιλέξει την προσαρμοσμένη θέση για το κουμπί προϊόντος. Θα πρέπει να το κάνετε αυτό για κάθε προϊόν."
+
+#: admin/settings/general.class.php:384 admin/settings/general.class.php:540
+#: views/wizard/step-button.php:33
+msgid "Button position"
+msgstr "Θέση Κουμπιού"
+
+#: admin/settings/general.class.php:353
+msgid "Remove condition"
+msgstr "Αφαίρεση συνθήκης"
+
+#: admin/settings/general.class.php:321
+msgid "Wishlist Page Options"
+msgstr "Επιλογές Σελίδας Λίστας Επιθυμιών"
+
+#: admin/settings/style.class.php:138
+msgid "Underline"
+msgstr "Υπογραμμισμένα"
+
+#: admin/settings/style.class.php:162 admin/settings/style.class.php:206
+#: admin/settings/style.class.php:275 admin/settings/style.class.php:344
+#: admin/settings/style.class.php:394 admin/settings/style.class.php:444
+#: admin/settings/style.class.php:539 admin/settings/style.class.php:575
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: admin/settings/style.class.php:132
+msgid "Hover Color"
+msgstr "Χρώμα κατάδειξης"
+
+#: admin/settings/style.class.php:106 admin/settings/style.class.php:482
+#: admin/settings/style.class.php:581
+msgid "Content Text Color"
+msgstr "Χρώμα κειμένου περιεχομένου"
+
+#: admin/settings/style.class.php:100
+msgid "Title Font Size"
+msgstr "Μέγεθος χαρακτήρων τίτλου"
+
+#: admin/settings/style.class.php:251 admin/settings/style.class.php:320
+#: admin/settings/style.class.php:376 admin/settings/style.class.php:426
+msgid "Font Size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+#: admin/settings/style.class.php:180 admin/settings/style.class.php:230
+#: admin/settings/style.class.php:299 admin/settings/style.class.php:356
+#: admin/settings/style.class.php:406
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: admin/settings/style.class.php:174 admin/settings/style.class.php:263
+#: admin/settings/style.class.php:332 admin/settings/style.class.php:382
+#: admin/settings/style.class.php:432
+msgid "Border Radius"
+msgstr "Στρογγύλεμα περιθωρίου"
+
+#: admin/settings/general.class.php:691
+msgid "Show Unit price"
+msgstr "Εμφάνιση τιμής μονάδας"
+
+#: public/wishlist/view.class.php:449
+msgid "Return to Wishlist"
+msgstr "Επιστροφή στη Λίστα Επιθυμιών"
+
+#: includes/wizard.class.php:317 includes/wizard.class.php:349
+#: integrations/theme-flatsome.php:119 integrations/theme-flatsome.php:161
+#: integrations/theme-flatsome.php:238 integrations/theme-flatsome.php:279
+#: integrations/theme-flatsome.php:304 public/tinvwl.class.php:693
+#: views/header.php:25
+msgid "Wishlist"
+msgstr "Λίστα Επιθυμιών"
+
+#: admin/settings/general.class.php:170
+msgid "Remove Product from Wishlist if added to cart"
+msgstr "Αφαίρεση προϊόντος από τη Λίστα Επιθυμιών αν προστεθεί στο καλάθι"
+
+#: admin/settings/general.class.php:671
+msgid "Wishlist Product Settings"
+msgstr "Ρυθμίσεις προϊόντων Λίστας Επιθυμιών"
+
+#: admin/settings/general.class.php:678
+msgid "Show \"Add to Cart\" button"
+msgstr "Εμφάνιση κουμπί \"Προσθήκη στο Καλάθι\""
+
+#: admin/settings/upgrade.class.php:56
+msgid "Premium Features"
+msgstr "Premium Δυνατότητες"
+
+#: admin/settings/general.class.php:839
+msgid "\"Share on\" Text"
+msgstr "Κείμενο \"Διαμοιρασμός στο\""
+
+#: admin/settings/style.class.php:70
+msgid "Use Default Font"
+msgstr "Χρήση προεπιλεγμένης γραμματοσειράς"
+
+#: admin/settings/style.class.php:236 admin/settings/style.class.php:305
+#: admin/settings/style.class.php:362 admin/settings/style.class.php:412
+msgid "Text Hover Color"
+msgstr "Χρώμα κατάδειξης κειμένου"
+
+#: admin/settings/general.class.php:845
+msgid "Social Icons Color"
+msgstr "Χρώμα εικονιδίου κοινωνικών δικτύων"
+
+#: admin/settings/style.class.php:56
+msgid "Wishlist Style Options"
+msgstr "Επιλογές στυλ Λίστα Επιθυμιών"
+
+#: admin/settings/general.class.php:249
+msgid "\"Product added to Wishlist\" Text"
+msgstr "Κείμενο για “Το προϊόν προστέθηκε στη λίστα επιθυμιών”"
+
+#: admin/settings/general.class.php:113 views/wizard/step-page.php:28
+msgid "Default Wishlist Name"
+msgstr "Προεπιλογή Όνομα επιθυμιών"
+
+#: admin/settings/general.class.php:242
+msgid "If enabled, the user will be redirected to wishlist page after 5 sec from adding product to wishlist."
+msgstr "Αν είναι ενεργοποιημένο, ο χρήστης θα μεταφερθεί στη σελίδα λίστας επιθυμιών μετά από 5 δευτερόλεπτα από την προσθήκη προϊόντος στη λίστα επιθυμιών."
+
+#: admin/settings/general.class.php:241
+msgid "Redirect to Wishlist"
+msgstr "Ανακατεύθυνση στη λίστα επιθυμιών"
+
+#: admin/settings/general.class.php:727
+msgid "Show Checkboxes"
+msgstr "Εμφάνιση πλαισίων ελέγχου"
+
+#: admin/settings/general.class.php:338
+msgid "Wishlist Processing Options"
+msgstr "Επιλογές επεξεργασίας επιθυμιών"
+
+#: includes/form.helper.php:527
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: admin/settings/style.class.php:168 admin/settings/style.class.php:450
+msgid "Border Color"
+msgstr "Χρώμα περιγράμματος"
+
+#: admin/settings/general.class.php:257
+msgid "\"Product already in Wishlist\" Text"
+msgstr "Κείμενο για ”Το προϊόν είναι ήδη στην λίστα επιθυμιών”"
+
+#: admin/settings/general.class.php:234
+msgid "\"View Wishlist\" button Text"
+msgstr "Κείμενο για το κουμπί “Προβολή επιθυμιών”"
+
+#: admin/settings/general.class.php:378
+msgid "Product page \"Add to Wishlist\" Button Settings"
+msgstr "Ρυθμίσεις κουμπιού σελίδας προϊόντος \"Προσθήκη στη λίστα επιθυμιών\""
+
+#: admin/settings/general.class.php:739
+msgid "Show Actions button"
+msgstr "Κουμπί \"Εμφάνιση ενεργειών\""
+
+#: admin/settings/style.class.php:528
+msgid "Special Price Background Color"
+msgstr "Χρώμα φόντου ειδικής τιμής"

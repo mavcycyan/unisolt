@@ -1,0 +1,48 @@
+2023-10-24T13:19:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 479232 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 3447
+
+2023-10-24T13:25:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T13:29:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T13:30:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 4276
+
+2023-10-24T13:30:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T13:44:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T13:49:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T15:05:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 180224 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-24T15:43:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T17:32:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T17:38:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 180224 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-24T17:40:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 204800 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/MiniCart.php на строке 297
+
+2023-10-24T17:43:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 53248 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 4276
+
+2023-10-24T17:47:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/src/Admin/Features/PaymentGatewaySuggestions/EvaluateSuggestion.php на строке 1
+
+2023-10-24T17:51:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 4276
+
+2023-10-24T18:00:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T18:01:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 204800 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/MiniCart.php на строке 297
+
+2023-10-24T18:28:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/src/Admin/Features/PaymentGatewaySuggestions/EvaluateSuggestion.php на строке 1
+
+2023-10-24T18:30:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 180224 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/class-wpdb.php на строке 2425
+
+2023-10-24T18:32:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 204800 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/MiniCart.php на строке 297
+
+2023-10-24T18:43:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/src/Admin/Features/PaymentGatewaySuggestions/EvaluateSuggestion.php на строке 1
+
+2023-10-24T18:46:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
+2023-10-24T18:48:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-content/plugins/woocommerce/src/Internal/Admin/Onboarding/OnboardingProducts.php на строке 106
+
+2023-10-24T18:52:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) в /var/www/vhosts/unisolt.cy/httpdocs/wp-includes/functions.php на строке 650
+
